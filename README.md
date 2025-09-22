@@ -1,84 +1,109 @@
-# LeetCode Solutions
+# 🚀 LeetCode Solutions
 
-Collection of LeetCode questions solved in C++ to strengthen problem-solving skills and ace coding interviews.
+> **C++ solutions to level up problem-solving skills & ace coding interviews!**
 
-## Overview
+![Repo Size](https://img.shields.io/github/repo-size/drashtim369/LeetCode-Solutions?style=for-the-badge\&color=blue)
+![Languages](https://img.shields.io/github/languages/top/drashtim369/LeetCode-Solutions?style=for-the-badge\&color=orange)
+![Stars](https://img.shields.io/github/stars/drashtim369/LeetCode-Solutions?style=for-the-badge\&color=yellow)
+![Issues](https://img.shields.io/github/issues/drashtim369/LeetCode-Solutions?style=for-the-badge\&color=red)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sweaterpants1133.svg)
 
-This repository contains solutions for popular LeetCode problems, covering:
+---
 
-* Arrays
-* Hashing
-* Two Pointers
-* Sorting
+## 📚 Overview
+
+This repository contains **well-organized, optimized C++ solutions** for LeetCode problems covering:
+
+* Arrays & Strings
+* Hashing & Maps
+* Two Pointers & Sliding Window
+* Sorting & Searching
+* Dynamic Programming
 * Bit Manipulation
-* And more…
+* Graphs & Trees
 
-Each solution is organized in its own folder named with the **problem number and title**, following this format:
+✨ **Why recruiters will love this repo:**
 
-```
-<problem-number>-<problem-title>
-```
+* Clean, readable, and commented code
+* Optimized for time & space
+* Organized by problem number & title
+* Demonstrates mastery of **core algorithms & problem-solving skills**
 
-Example:
+---
 
-```
-0026-remove-duplicates-from-sorted-array
-0027-remove-element
-0066-plus-one
-0268-missing-number
-0283-move-zeroes
-```
-
-## Folder Structure
+## 📂 Folder Structure
 
 ```
-leetcode/
+LeetCode-Solutions/
 ├── 0026-remove-duplicates-from-sorted-array/
+│   └── solution.cpp
 ├── 0027-remove-element/
+│   └── solution.cpp
 ├── 0066-plus-one/
+│   └── solution.cpp
 ├── 0268-missing-number/
+│   └── solution.cpp
 ├── 0283-move-zeroes/
+│   └── solution.cpp
 └── README.md
 ```
 
-* Each folder contains a C++ solution file (`.cpp`) that has been tested on LeetCode.
-* Solutions are **optimized** for time and space complexity wherever applicable.
+Each folder contains:
 
-## How to Use
+* `solution.cpp` — tested on LeetCode
+* Optional `README.md` for problem explanation
 
-1. Clone this repository:
+---
+
+## 🏆 Problem Table
+
+| Problem # | Title                               | Difficulty                                       | Time Complexity | Space Complexity | Status |
+| --------- | ----------------------------------- | ------------------------------------------------ | --------------- | ---------------- | ------ |
+| 0026      | Remove Duplicates from Sorted Array | ![Easy](https://img.shields.io/badge/Easy-green) | O(n)            | O(1)             | ✅      |
+| 0027      | Remove Element                      | ![Easy](https://img.shields.io/badge/Easy-green) | O(n)            | O(1)             | ✅      |
+| 0066      | Plus One                            | ![Easy](https://img.shields.io/badge/Easy-green) | O(n)            | O(1)             | ✅      |
+| 0268      | Missing Number                      | ![Easy](https://img.shields.io/badge/Easy-green) | O(n)            | O(1)             | ✅      |
+| 0283      | Move Zeroes                         | ![Easy](https://img.shields.io/badge/Easy-green) | O(n)            | O(1)             | ✅      |
+
+> Add Medium & Hard problems with:
+> ![Medium](https://img.shields.io/badge/Medium-yellow) and ![Hard](https://img.shields.io/badge/Hard-red)
+
+---
+
+## ⚡ How to Use
+
+1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/drashtim369/LeetCode-Solutions.git
 ```
 
-2. Navigate to the folder of the problem you want to check:
+2. Navigate to the problem folder:
 
 ```bash
 cd 0066-plus-one
 ```
 
-3. Compile and run your C++ solution:
+3. Compile & run the solution:
 
 ```bash
 g++ solution.cpp -o solution
 ./solution
 ```
+## 🤝 Contributing
 
-> Note: Some solutions may require input customization.
+Contributions are welcome!
 
-## Contributing
-
-Contributions are welcome! Feel free to:
-
-* Add more LeetCode problems and solutions
+* Add new problems & solutions
 * Optimize existing solutions
-* Suggest improvements or fixes
+* Suggest improvements
+
+> Ensure code is **clean & well-commented**.
 
 ---
 
-## License
+## 📜 License
 
-This repository is **MIT licensed**. You can freely use, modify, and distribute the code.
+MIT License — free to use, modify, and distribute.
 
 
