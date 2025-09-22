@@ -2,11 +2,12 @@
 
 > **C++ solutions to level up problem-solving skills & ace coding interviews!**
 
-![Repo Size](https://img.shields.io/github/repo-size/drashtim369/LeetCode-Solutions?style=for-the-badge\&color=blue)
-![Languages](https://img.shields.io/github/languages/top/drashtim369/LeetCode-Solutions?style=for-the-badge\&color=orange)
-![Stars](https://img.shields.io/github/stars/drashtim369/LeetCode-Solutions?style=for-the-badge\&color=yellow)
-![Issues](https://img.shields.io/github/issues/drashtim369/LeetCode-Solutions?style=for-the-badge\&color=red)
-![LeetCode Stats](https://leetcard.jacoblin.cool/sweaterpants1133.svg)
+![Repo Size](https://img.shields.io/github/repo-size/drashtim369/leetcode?style=for-the-badge&color=blue)
+![Languages](https://img.shields.io/github/languages/top/drashtim369/leetcode?style=for-the-badge&color=orange)
+![Stars](https://img.shields.io/github/stars/drashtim369/leetcode?style=for-the-badge&color=yellow)
+![Issues](https://img.shields.io/github/issues/drashtim369/leetcode?style=for-the-badge&color=red)
+
+
 
 ---
 
