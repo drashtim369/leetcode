@@ -2,12 +2,10 @@
 
 > **C++ solutions to level up problem-solving skills & ace coding interviews!**
 
-![Repo Size](https://img.shields.io/github/repo-size/drashtim369/leetcode?style=for-the-badge&color=blue)
-![Languages](https://img.shields.io/github/languages/top/drashtim369/leetcode?style=for-the-badge&color=orange)
-![Stars](https://img.shields.io/github/stars/drashtim369/leetcode?style=for-the-badge&color=yellow)
-![Issues](https://img.shields.io/github/issues/drashtim369/leetcode?style=for-the-badge&color=red)
-
-
+![Repo Size](https://img.shields.io/github/repo-size/drashtim369/leetcode?style=for-the-badge\&color=blue)
+![Languages](https://img.shields.io/github/languages/top/drashtim369/leetcode?style=for-the-badge\&color=orange)
+![Stars](https://img.shields.io/github/stars/drashtim369/leetcode?style=for-the-badge\&color=yellow)
+![Issues](https://img.shields.io/github/issues/drashtim369/leetcode?style=for-the-badge\&color=red)
 
 ---
 
@@ -42,6 +40,8 @@ LeetCode-Solutions/
 │   └── solution.cpp
 ├── 0066-plus-one/
 │   └── solution.cpp
+├── 0075-sort-colors/
+│   └── solution.cpp
 ├── 0268-missing-number/
 │   └── solution.cpp
 ├── 0283-move-zeroes/
@@ -49,25 +49,18 @@ LeetCode-Solutions/
 └── README.md
 ```
 
-Each folder contains:
-
-* `solution.cpp` — tested on LeetCode
-* Optional `README.md` for problem explanation
-
 ---
 
 ## 🏆 Problem Table
 
-| Problem # | Title                               | Difficulty                                       | Time Complexity | Space Complexity | Status |
-| --------- | ----------------------------------- | ------------------------------------------------ | --------------- | ---------------- | ------ |
-| 0026      | Remove Duplicates from Sorted Array | ![Easy](https://img.shields.io/badge/Easy-green) | O(n)            | O(1)             | ✅      |
-| 0027      | Remove Element                      | ![Easy](https://img.shields.io/badge/Easy-green) | O(n)            | O(1)             | ✅      |
-| 0066      | Plus One                            | ![Easy](https://img.shields.io/badge/Easy-green) | O(n)            | O(1)             | ✅      |
-| 0268      | Missing Number                      | ![Easy](https://img.shields.io/badge/Easy-green) | O(n)            | O(1)             | ✅      |
-| 0283      | Move Zeroes                         | ![Easy](https://img.shields.io/badge/Easy-green) | O(n)            | O(1)             | ✅      |
-
-> Add Medium & Hard problems with:
-> ![Medium](https://img.shields.io/badge/Medium-yellow) and ![Hard](https://img.shields.io/badge/Hard-red)
+| Problem #                                                                                          | Title                                                                                                     | Difficulty                                            | Time Complexity | Space Complexity | Tags                                                                                                                        | Status |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [0026](https://github.com/drashtim369/leetcode/tree/main/0026-remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ![Easy](https://img.shields.io/badge/Easy-green)      | O(n)            | O(1)             | ![Two Pointers](https://img.shields.io/badge/-Two%20Pointers-blue)                                                          | ✅      |
+| [0027](https://github.com/drashtim369/leetcode/tree/main/0027-remove-element)                      | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | ![Easy](https://img.shields.io/badge/Easy-green)      | O(n)            | O(1)             | ![Two Pointers](https://img.shields.io/badge/-Two%20Pointers-blue)                                                          | ✅      |
+| [0066](https://github.com/drashtim369/leetcode/tree/main/0066-plus-one)                            | [Plus One](https://leetcode.com/problems/plus-one/)                                                       | ![Easy](https://img.shields.io/badge/Easy-green)      | O(n)            | O(1)             | ![Math](https://img.shields.io/badge/-Math-purple)                                                                          | ✅      |
+| [0075](https://github.com/drashtim369/leetcode/tree/main/0075-sort-colors)                         | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                 | ![Medium](https://img.shields.io/badge/Medium-yellow) | O(n)            | O(1)             | ![Sorting](https://img.shields.io/badge/-Sorting-orange) ![Two Pointers](https://img.shields.io/badge/-Two%20Pointers-blue) | ✅      |
+| [0268](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number)                      | [Missing Number](https://leetcode.com/problems/missing-number/)                                           | ![Easy](https://img.shields.io/badge/Easy-green)      | O(n)            | O(1)             | ![Math](https://img.shields.io/badge/-Math-purple) ![XOR](https://img.shields.io/badge/-Bit%20Manipulation-brown)           | ✅      |
+| [0283](https://github.com/drashtim369/leetcode/tree/main/0283-move-zeroes)                         | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                 | ![Easy](https://img.shields.io/badge/Easy-green)      | O(n)            | O(1)             | ![Two Pointers](https://img.shields.io/badge/-Two%20Pointers-blue)                                                          | ✅      |
 
 ---
 
@@ -82,7 +75,7 @@ git clone https://github.com/drashtim369/LeetCode-Solutions.git
 2. Navigate to the problem folder:
 
 ```bash
-cd 0066-plus-one
+cd 0075-sort-colors
 ```
 
 3. Compile & run the solution:
@@ -91,6 +84,9 @@ cd 0066-plus-one
 g++ solution.cpp -o solution
 ./solution
 ```
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -107,4 +103,4 @@ Contributions are welcome!
 
 MIT License — free to use, modify, and distribute.
 
-
+---
