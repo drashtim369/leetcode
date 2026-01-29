@@ -1,106 +1,166 @@
 # 🚀 LeetCode Solutions
 
-> **C++ solutions to level up problem-solving skills & ace coding interviews!**
+> **C++ solutions documenting my DSA journey — focused on clarity, correctness, and interview readiness**
 
 ![Repo Size](https://img.shields.io/github/repo-size/drashtim369/leetcode?style=for-the-badge\&color=blue)
-![Languages](https://img.shields.io/github/languages/top/drashtim369/leetcode?style=for-the-badge\&color=orange)
+![Language](https://img.shields.io/github/languages/top/drashtim369/leetcode?style=for-the-badge\&color=orange)
 ![Stars](https://img.shields.io/github/stars/drashtim369/leetcode?style=for-the-badge\&color=yellow)
-![Issues](https://img.shields.io/github/issues/drashtim369/leetcode?style=for-the-badge\&color=red)
+![Last Commit](https://img.shields.io/github/last-commit/drashtim369/leetcode?style=for-the-badge\&color=green)
 
 ---
 
-## 📚 Overview
+## 📌 About This Repository
 
-This repository contains **well-organized, optimized C++ solutions** for LeetCode problems covering:
+This repository tracks my **LeetCode problem-solving progress** using **C++**, with emphasis on:
 
-* Arrays & Strings
-* Hashing & Maps
-* Two Pointers & Sliding Window
-* Sorting & Searching
-* Dynamic Programming
-* Bit Manipulation
-* Graphs & Trees
+* Strong **DSA fundamentals**
+* Writing **clean & readable code**
+* Using **optimal approaches**
+* Building consistency for **interview preparation**
 
-✨ **Why recruiters will love this repo:**
-
-* Clean, readable, and commented code
-* Optimized for time & space
-* Organized by problem number & title
-* Demonstrates mastery of **core algorithms & problem-solving skills**
+📈 Actively updated as I solve more problems.
 
 ---
 
-## 📂 Folder Structure
+## 📊 Overall Progress
+
+### ✅ Problems Solved: **25+**
+
+### 🎯 Difficulty Breakdown
+
+| Difficulty | Count | Progress           |
+| ---------- | ----- | ------------------ |
+| 🟢 Easy    | 14    | ████████████████░░ |
+| 🟡 Medium  | 11    | ███████████░░░░░░  |
+| 🔴 Hard    | 0     | ░░░░░░░░░░░░░░░░   |
+
+> Focus so far: **building a strong Easy → Medium foundation**
+> Hard problems will be added progressively.
+
+---
+
+## 🧠 Topic-Wise Progress
+
+### Arrays & Strings
+
+████████████████░░░░  **(8 problems)**
+
+### Two Pointers
+
+██████████████░░░░░░  **(6 problems)**
+
+### Hashing / Prefix Sum
+
+█████████░░░░░░░░░░░  **(4 problems)**
+
+### Linked Lists
+
+████████████░░░░░░░░  **(5 problems)**
+
+### Stack & Queue
+
+███████░░░░░░░░░░░░░  **(2 problems)**
+
+### Bit Manipulation
+
+█████░░░░░░░░░░░░░░░  **(2 problems)**
+
+### Dynamic Programming (Basics)
+
+██████░░░░░░░░░░░░░░  **(2 problems)**
+
+> 📌 Graphs, Trees & Advanced DP — **up next**
+
+---
+
+## 📋 Solved Problems
+
+| #    | Problem                              | Difficulty | Core Concept        |
+| ---- | ------------------------------------ | ---------- | ------------------- |
+| 0001 | Two Sum                              | Easy       | Hash Map            |
+| 0026 | Remove Duplicates from Sorted Array  | Easy       | Two Pointers        |
+| 0027 | Remove Element                       | Easy       | Two Pointers        |
+| 0031 | Next Permutation                     | Medium     | Arrays              |
+| 0053 | Maximum Subarray                     | Medium     | Kadane’s Algorithm  |
+| 0066 | Plus One                             | Easy       | Math                |
+| 0075 | Sort Colors                          | Medium     | Dutch National Flag |
+| 0121 | Best Time to Buy and Sell Stock      | Easy       | Greedy              |
+| 0128 | Longest Consecutive Sequence         | Medium     | Hash Set            |
+| 0136 | Single Number                        | Easy       | XOR                 |
+| 0152 | Maximum Product Subarray             | Medium     | DP                  |
+| 0169 | Majority Element                     | Easy       | Boyer–Moore         |
+| 0189 | Rotate Array                         | Medium     | Array Reversal      |
+| 0203 | Remove Linked List Elements          | Easy       | Linked List         |
+| 0206 | Reverse Linked List                  | Easy       | Linked List         |
+| 0225 | Implement Stack using Queues         | Easy       | Stack               |
+| 0232 | Implement Queue using Stacks         | Easy       | Queue               |
+| 0268 | Missing Number                       | Easy       | XOR / Math          |
+| 0283 | Move Zeroes                          | Easy       | Two Pointers        |
+| 0485 | Max Consecutive Ones                 | Easy       | Arrays              |
+| 0560 | Subarray Sum Equals K                | Medium     | Prefix Sum          |
+| 1721 | Swapping Nodes in a Linked List      | Medium     | Linked List         |
+| 1752 | Check if Array Is Sorted and Rotated | Easy       | Arrays              |
+| 2149 | Rearrange Array Elements by Sign     | Medium     | Arrays              |
+| 2807 | Insert GCD in Linked List            | Medium     | Linked List + Math  |
+
+---
+
+## 📂 Repository Structure
 
 ```
-LeetCode-Solutions/
+leetcode/
+├── 0001-two-sum/
 ├── 0026-remove-duplicates-from-sorted-array/
-│   └── solution.cpp
-├── 0027-remove-element/
-│   └── solution.cpp
-├── 0066-plus-one/
-│   └── solution.cpp
+├── 0031-next-permutation/
+├── 0053-maximum-subarray/
 ├── 0075-sort-colors/
-│   └── solution.cpp
-├── 0268-missing-number/
-│   └── solution.cpp
-├── 0283-move-zeroes/
-│   └── solution.cpp
+├── 0128-longest-consecutive-sequence/
+├── 0206-reverse-linked-list/
+├── 0560-subarray-sum-equals-k/
+├── 2807-insert-gcd-in-linked-list/
 └── README.md
 ```
 
----
+Each folder contains:
 
-## 🏆 Problem Table
-
-| Problem #                                                                                          | Title                                                                                                     | Difficulty                                            | Time Complexity | Space Complexity | Tags                                                                                                                        | Status |
-| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [0026](https://github.com/drashtim369/leetcode/tree/main/0026-remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ![Easy](https://img.shields.io/badge/Easy-green)      | O(n)            | O(1)             | ![Two Pointers](https://img.shields.io/badge/-Two%20Pointers-blue)                                                          | ✅      |
-| [0027](https://github.com/drashtim369/leetcode/tree/main/0027-remove-element)                      | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | ![Easy](https://img.shields.io/badge/Easy-green)      | O(n)            | O(1)             | ![Two Pointers](https://img.shields.io/badge/-Two%20Pointers-blue)                                                          | ✅      |
-| [0066](https://github.com/drashtim369/leetcode/tree/main/0066-plus-one)                            | [Plus One](https://leetcode.com/problems/plus-one/)                                                       | ![Easy](https://img.shields.io/badge/Easy-green)      | O(n)            | O(1)             | ![Math](https://img.shields.io/badge/-Math-purple)                                                                          | ✅      |
-| [0075](https://github.com/drashtim369/leetcode/tree/main/0075-sort-colors)                         | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                 | ![Medium](https://img.shields.io/badge/Medium-yellow) | O(n)            | O(1)             | ![Sorting](https://img.shields.io/badge/-Sorting-orange) ![Two Pointers](https://img.shields.io/badge/-Two%20Pointers-blue) | ✅      |
-| [0268](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number)                      | [Missing Number](https://leetcode.com/problems/missing-number/)                                           | ![Easy](https://img.shields.io/badge/Easy-green)      | O(n)            | O(1)             | ![Math](https://img.shields.io/badge/-Math-purple) ![XOR](https://img.shields.io/badge/-Bit%20Manipulation-brown)           | ✅      |
-| [0283](https://github.com/drashtim369/leetcode/tree/main/0283-move-zeroes)                         | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                 | ![Easy](https://img.shields.io/badge/Easy-green)      | O(n)            | O(1)             | ![Two Pointers](https://img.shields.io/badge/-Two%20Pointers-blue)                                                          | ✅      |
+* C++ solution
+* Optimized logic
+* Clean structure
+* LeetHub auto-sync support
 
 ---
 
-## ⚡ How to Use
-
-1. Clone the repository:
+## ⚙️ How to Run
 
 ```bash
-git clone https://github.com/drashtim369/LeetCode-Solutions.git
-```
-
-2. Navigate to the problem folder:
-
-```bash
+git clone https://github.com/drashtim369/leetcode.git
 cd 0075-sort-colors
-```
-
-3. Compile & run the solution:
-
-```bash
 g++ solution.cpp -o solution
 ./solution
 ```
 
 ---
 
-## 🤝 Contributing
+## 🧭 Roadmap (What’s Next)
 
-Contributions are welcome!
+* ✔️ Finish **core Medium problems**
+* 🔜 Start **Binary Search patterns**
+* 🔜 Trees & recursion
+* 🔜 Sliding Window (advanced)
+* 🔜 Intro to Graphs
+* 🔜 First Hard problem 🚀
 
-* Add new problems & solutions
-* Optimize existing solutions
-* Suggest improvements
+---
 
-> Ensure code is **clean & well-commented**.
+## 🤝 Contributions & Feedback
+
+Suggestions, optimizations, and discussions are welcome.
+This repo is meant to **reflect growth**, not perfection.
 
 ---
 
 ## 📜 License
 
-MIT License — free to use, modify, and distribute.
+MIT License
 
----
+
