@@ -123,7 +123,7 @@ g++ solution.cpp -o solution
 
 ---
 
-## 🌟 Fun Stats (Recruiter-Grabbers)
+## 🌟 Fun Stats 
 
 ![LeetCode Easy](https://img.shields.io/badge/Easy-20+-green)
 ![LeetCode Medium](https://img.shields.io/badge/Medium-10+-orange)
