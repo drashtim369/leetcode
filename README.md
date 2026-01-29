@@ -1,113 +1,77 @@
-# 🚀 LeetCode Solutions
 
-> **C++ solutions documenting my DSA journey — focused on clarity, correctness, and interview readiness**
+# 🚀 Drashti Madhiwala's LeetCode Journey
 
-![Repo Size](https://img.shields.io/github/repo-size/drashtim369/leetcode?style=for-the-badge\&color=blue)
-![Language](https://img.shields.io/github/languages/top/drashtim369/leetcode?style=for-the-badge\&color=orange)
-![Stars](https://img.shields.io/github/stars/drashtim369/leetcode?style=for-the-badge\&color=yellow)
-![Last Commit](https://img.shields.io/github/last-commit/drashtim369/leetcode?style=for-the-badge\&color=green)
+**C++ Solutions | DSA Mastery | Interview Ready**
+
+Welcome to my **LeetCode journey**, where I solve problems with **clarity, efficiency, and consistency**, building a strong foundation for software development and technical interviews.
 
 ---
 
 ## 📌 About This Repository
 
-This repository tracks my **LeetCode problem-solving progress** using **C++**, with emphasis on:
+This repo documents my **progress in mastering DSA** using C++:
 
-* Strong **DSA fundamentals**
-* Writing **clean & readable code**
-* Using **optimal approaches**
-* Building consistency for **interview preparation**
-
-📈 Actively updated as I solve more problems.
+* Strong fundamentals in **Arrays, Linked Lists, Stacks, Queues, Hashing, DP, Prefix Sum, Math**
+* **Clean, readable, and maintainable code**
+* **Optimized approaches** to solve problems efficiently
+* Focus on **core patterns that appear in interviews**
+* Actively tracking **growth and consistency**
 
 ---
 
 ## 📊 Overall Progress
 
-### ✅ Problems Solved: **25+**
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-30+-brightgreen)
+![Language](https://img.shields.io/badge/Language-C++-blue)
+![Difficulty Focus](https://img.shields.io/badge/Easy%2FMedium-Covered-orange)
 
-### 🎯 Difficulty Breakdown
+**Problem Breakdown by Difficulty:**
 
-| Difficulty | Count | Progress           |
-| ---------- | ----- | ------------------ |
-| 🟢 Easy    | 14    | ████████████████░░ |
-| 🟡 Medium  | 11    | ███████████░░░░░░  |
-| 🔴 Hard    | 0     | ░░░░░░░░░░░░░░░░   |
-
-> Focus so far: **building a strong Easy → Medium foundation**
-> Hard problems will be added progressively.
+* 🟢 **Easy:** 20+
+* 🟡 **Medium:** 10+
+* 🔴 **Hard:** In Progress
 
 ---
 
-## 🧠 Topic-Wise Progress
+## 📋 Solved Problems (Core Highlights)
 
-### Arrays & Strings
-
-████████████████░░░░  **(8 problems)**
-
-### Two Pointers
-
-██████████████░░░░░░  **(6 problems)**
-
-### Hashing / Prefix Sum
-
-█████████░░░░░░░░░░░  **(4 problems)**
-
-### Linked Lists
-
-████████████░░░░░░░░  **(5 problems)**
-
-### Stack & Queue
-
-███████░░░░░░░░░░░░░  **(2 problems)**
-
-### Bit Manipulation
-
-█████░░░░░░░░░░░░░░░  **(2 problems)**
-
-### Dynamic Programming (Basics)
-
-██████░░░░░░░░░░░░░░  **(2 problems)**
-
-> 📌 Graphs, Trees & Advanced DP — **up next**
-
----
-
-## 📋 Solved Problems
-
-| #    | Problem                              | Difficulty | Core Concept        |
-| ---- | ------------------------------------ | ---------- | ------------------- |
-| 0001 | Two Sum                              | Easy       | Hash Map            |
-| 0026 | Remove Duplicates from Sorted Array  | Easy       | Two Pointers        |
-| 0027 | Remove Element                       | Easy       | Two Pointers        |
-| 0031 | Next Permutation                     | Medium     | Arrays              |
-| 0053 | Maximum Subarray                     | Medium     | Kadane’s Algorithm  |
-| 0066 | Plus One                             | Easy       | Math                |
-| 0075 | Sort Colors                          | Medium     | Dutch National Flag |
-| 0121 | Best Time to Buy and Sell Stock      | Easy       | Greedy              |
-| 0128 | Longest Consecutive Sequence         | Medium     | Hash Set            |
-| 0136 | Single Number                        | Easy       | XOR                 |
-| 0152 | Maximum Product Subarray             | Medium     | DP                  |
-| 0169 | Majority Element                     | Easy       | Boyer–Moore         |
-| 0189 | Rotate Array                         | Medium     | Array Reversal      |
-| 0203 | Remove Linked List Elements          | Easy       | Linked List         |
-| 0206 | Reverse Linked List                  | Easy       | Linked List         |
-| 0225 | Implement Stack using Queues         | Easy       | Stack               |
-| 0232 | Implement Queue using Stacks         | Easy       | Queue               |
-| 0268 | Missing Number                       | Easy       | XOR / Math          |
-| 0283 | Move Zeroes                          | Easy       | Two Pointers        |
-| 0485 | Max Consecutive Ones                 | Easy       | Arrays              |
-| 0560 | Subarray Sum Equals K                | Medium     | Prefix Sum          |
-| 1721 | Swapping Nodes in a Linked List      | Medium     | Linked List         |
-| 1752 | Check if Array Is Sorted and Rotated | Easy       | Arrays              |
-| 2149 | Rearrange Array Elements by Sign     | Medium     | Arrays              |
-| 2807 | Insert GCD in Linked List            | Medium     | Linked List + Math  |
+| #    | Problem                              | Difficulty | Core Concept          |
+| ---- | ------------------------------------ | ---------- | --------------------- |
+| 0001 | Two Sum                              | Easy       | Hash Map              |
+| 0007 | Reverse Integer                      | Easy       | Math                  |
+| 0009 | Palindrome Number                    | Easy       | Math / String         |
+| 0026 | Remove Duplicates from Sorted Array  | Easy       | Two Pointers          |
+| 0027 | Remove Element                       | Easy       | Two Pointers          |
+| 0031 | Next Permutation                     | Medium     | Arrays                |
+| 0053 | Maximum Subarray                     | Medium     | Kadane’s Algorithm    |
+| 0066 | Plus One                             | Easy       | Math                  |
+| 0075 | Sort Colors                          | Medium     | Dutch National Flag   |
+| 0121 | Best Time to Buy and Sell Stock      | Easy       | Greedy                |
+| 0125 | Valid Palindrome                     | Easy       | String / Two Pointers |
+| 0128 | Longest Consecutive Sequence         | Medium     | Hash Set              |
+| 0136 | Single Number                        | Easy       | XOR                   |
+| 0152 | Maximum Product Subarray             | Medium     | DP                    |
+| 0169 | Majority Element                     | Easy       | Boyer-Moore Voting    |
+| 0189 | Rotate Array                         | Medium     | Array Reversal        |
+| 0203 | Remove Linked List Elements          | Easy       | Linked List           |
+| 0206 | Reverse Linked List                  | Easy       | Linked List           |
+| 0225 | Implement Stack using Queues         | Easy       | Stack                 |
+| 0232 | Implement Queue using Stacks         | Easy       | Queue                 |
+| 0268 | Missing Number                       | Easy       | XOR / Math            |
+| 0283 | Move Zeroes                          | Easy       | Two Pointers          |
+| 0485 | Max Consecutive Ones                 | Easy       | Arrays                |
+| 0509 | Fibonacci Number                     | Easy       | Recursion / DP        |
+| 0560 | Subarray Sum Equals K                | Medium     | Prefix Sum            |
+| 1721 | Swapping Nodes in a Linked List      | Medium     | Linked List           |
+| 1752 | Check if Array Is Sorted and Rotated | Easy       | Arrays                |
+| 2149 | Rearrange Array Elements by Sign     | Medium     | Arrays                |
+| 2807 | Insert GCD in Linked List            | Medium     | Linked List + Math    |
 
 ---
 
 ## 📂 Repository Structure
 
-```
+```bash
 leetcode/
 ├── 0001-two-sum/
 ├── 0026-remove-duplicates-from-sorted-array/
@@ -123,10 +87,9 @@ leetcode/
 
 Each folder contains:
 
-* C++ solution
-* Optimized logic
-* Clean structure
-* LeetHub auto-sync support
+* **C++ solution with optimal logic**
+* **Well-commented and clean code**
+* **LeetHub auto-sync ready**
 
 ---
 
@@ -134,33 +97,36 @@ Each folder contains:
 
 ```bash
 git clone https://github.com/drashtim369/leetcode.git
-cd 0075-sort-colors
+cd <problem-folder>
 g++ solution.cpp -o solution
 ./solution
 ```
 
 ---
 
-## 🧭 Roadmap (What’s Next)
+## 🧭 Roadmap (Next Milestones)
 
-* ✔️ Finish **core Medium problems**
-* 🔜 Start **Binary Search patterns**
-* 🔜 Trees & recursion
-* 🔜 Sliding Window (advanced)
-* 🔜 Intro to Graphs
-* 🔜 First Hard problem 🚀
-
----
-
-## 🤝 Contributions & Feedback
-
-Suggestions, optimizations, and discussions are welcome.
-This repo is meant to **reflect growth**, not perfection.
+✔ Finish remaining **core Medium problems**
+🔜 Binary Search & Sliding Window
+🔜 Trees & Recursion
+🔜 Graphs & BFS / DFS
+🔜 Hard-level problems 🚀
 
 ---
 
-## 📜 License
+## ⚡ Why Recruiters Should Notice Me
 
-MIT License
+* ✅ Strong **DSA foundation** with clean C++ code
+* ✅ Proven **problem-solving ability** across Arrays, Linked Lists, Stacks, Queues, DP, Hashing, Prefix Sum
+* ✅ Active learner, **consistent growth**, and building **interview readiness**
+* ✅ Ready to tackle **software development & competitive programming challenges**
+
+---
+
+## 🌟 Fun Stats (Recruiter-Grabbers)
+
+![LeetCode Easy](https://img.shields.io/badge/Easy-20+-green)
+![LeetCode Medium](https://img.shields.io/badge/Medium-10+-orange)
+![DSA Focus](https://img.shields.io/badge/DSA-Covered-blue)
 
 
