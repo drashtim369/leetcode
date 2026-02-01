@@ -10,7 +10,7 @@ public:
                 v.emplace_back(mpp[comp]);
                 v.emplace_back(i);
             }
-            mpp[nums[i]]++;
+            mpp[nums[i]] = i;
         }
         return v;
     }
