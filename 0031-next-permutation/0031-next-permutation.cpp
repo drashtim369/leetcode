@@ -9,6 +9,10 @@ public:
             break;
         }
     }
+    if (pivot == -1) {
+        reverse(nums.begin(), nums.end());
+        return;
+    }
     int idx = -1;
     for (int i = nums.size() - 1; i > pivot; i--) {
         if (nums[i] > pivotVal && nums[i] < mn) {
