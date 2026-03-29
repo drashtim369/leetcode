@@ -139,6 +139,7 @@ g++ solution.cpp -o solution
 | [0001-two-sum](https://github.com/drashtim369/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/drashtim369/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtim369/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/drashtim369/leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/drashtim369/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -180,4 +181,8 @@ g++ solution.cpp -o solution
 | ------- | ------- |
 | [0136-single-number](https://github.com/drashtim369/leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtim369/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
