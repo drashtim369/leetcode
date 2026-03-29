@@ -130,3 +130,11 @@ g++ solution.cpp -o solution
 ![DSA Focus](https://img.shields.io/badge/DSA-Covered-blue)
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/drashtim369/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+<!---LeetCode Topics End-->
