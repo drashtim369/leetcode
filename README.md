@@ -168,6 +168,7 @@ g++ solution.cpp -o solution
 | ------- | ------- |
 | [0001-two-sum](https://github.com/drashtim369/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0205-isomorphic-strings](https://github.com/drashtim369/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/drashtim369/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drashtim369/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
@@ -179,6 +180,7 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/drashtim369/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0242-valid-anagram](https://github.com/drashtim369/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drashtim369/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Bit Manipulation
@@ -199,6 +201,7 @@ g++ solution.cpp -o solution
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/drashtim369/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/drashtim369/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/drashtim369/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/drashtim369/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/drashtim369/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/drashtim369/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
