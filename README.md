@@ -199,6 +199,7 @@ g++ solution.cpp -o solution
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/drashtim369/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/drashtim369/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0796-rotate-string](https://github.com/drashtim369/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/drashtim369/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/drashtim369/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Stack
@@ -209,4 +210,8 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/drashtim369/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/drashtim369/leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
