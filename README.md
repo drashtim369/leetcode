@@ -149,6 +149,7 @@ g++ solution.cpp -o solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/drashtim369/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/drashtim369/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/drashtim369/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +171,7 @@ g++ solution.cpp -o solution
 | [0400-nth-digit](https://github.com/drashtim369/leetcode/tree/main/0400-nth-digit/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/drashtim369/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/drashtim369/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +196,7 @@ g++ solution.cpp -o solution
 | [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drashtim369/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/drashtim369/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +246,7 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/drashtim369/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,4 +259,8 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/drashtim369/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 <!---LeetCode Topics End-->
