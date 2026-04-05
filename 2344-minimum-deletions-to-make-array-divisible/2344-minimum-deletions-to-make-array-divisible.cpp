@@ -6,7 +6,7 @@ public:
     int minOperations(vector<int>& nums, vector<int>& numsDivide) {
         sort(nums.begin(), nums.end());
         int res = numsDivide[0];
-        for (int i = 0; i < numsDivide.size(); i++) {
+        for (int i = 1; i < numsDivide.size(); i++) {
             res = gcd(numsDivide[i], res);
         }
         int numToDelete;
