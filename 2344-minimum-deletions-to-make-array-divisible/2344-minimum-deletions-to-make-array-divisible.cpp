@@ -9,7 +9,6 @@ public:
         for (int i = 1; i < numsDivide.size(); i++) {
             res = gcd(numsDivide[i], res);
         }
-        int numToDelete;
         for (int i = 0; i < nums.size(); i++) {
             if (res % nums[i] == 0) {
                 return i;
