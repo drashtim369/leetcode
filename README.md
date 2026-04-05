@@ -163,6 +163,7 @@ g++ solution.cpp -o solution
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/drashtim369/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/drashtim369/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0400-nth-digit](https://github.com/drashtim369/leetcode/tree/main/0400-nth-digit/) | Medium |
@@ -209,6 +210,7 @@ g++ solution.cpp -o solution
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/drashtim369/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/drashtim369/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/drashtim369/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/drashtim369/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/drashtim369/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/drashtim369/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
