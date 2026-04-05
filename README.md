@@ -165,6 +165,7 @@ g++ solution.cpp -o solution
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/drashtim369/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0400-nth-digit](https://github.com/drashtim369/leetcode/tree/main/0400-nth-digit/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/drashtim369/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -180,6 +181,7 @@ g++ solution.cpp -o solution
 | ------- | ------- |
 | [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drashtim369/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0400-nth-digit](https://github.com/drashtim369/leetcode/tree/main/0400-nth-digit/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
