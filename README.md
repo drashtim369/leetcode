@@ -244,6 +244,7 @@ g++ solution.cpp -o solution
 | [0020-valid-parentheses](https://github.com/drashtim369/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/drashtim369/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/drashtim369/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/drashtim369/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/drashtim369/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/drashtim369/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Greedy
@@ -287,4 +288,12 @@ g++ solution.cpp -o solution
 | [0046-permutations](https://github.com/drashtim369/leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/drashtim369/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/drashtim369/leetcode/tree/main/0052-n-queens-ii/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/drashtim369/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/drashtim369/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
