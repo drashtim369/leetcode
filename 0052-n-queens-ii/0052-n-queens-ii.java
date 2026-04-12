@@ -25,7 +25,7 @@ class Solution {
         for (int r = row - 1, c = col - 1; r >= 0 && c >= 0; r--, c--) {
             if (board[r][c] == 'Q') return false;
         }
-        for (int r = row + 1, c = col - 1; r < n && c >= 0; r++, c--) {
+        for (int r = row, c = col; r < n && c >= 0; r++, c--) {
             if (board[r][c] == 'Q') return false;
         }
         return true;
