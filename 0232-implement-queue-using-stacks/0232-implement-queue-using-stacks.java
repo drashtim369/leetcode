@@ -19,9 +19,7 @@ class MyQueue {
     }
     
     public int peek() {
-        if (out.isEmpty()) {
-            while (!in.isEmpty()) out.push(in.pop());
-        }
+        while (!in.isEmpty()) out.push(in.pop());
         return out.peek();
     }
     
