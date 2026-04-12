@@ -2,12 +2,12 @@ import java.util.*;
 
 class Solution {
     static int n;
-    List<String> bt(int open, int close, String ans) {
-        List<String> list = new ArrayList<>();
+    List<String> list = new ArrayList<>();
+    void bt(int open, int close, String ans) {
         // ✅ base case
         if (open == n && close == n) {
             list.add(ans);
-            return list;
+            return;
         }
         // add '('
         if (open < n) {
@@ -17,10 +17,10 @@ class Solution {
         if (close < open) {
             bt(open, close + 1, ans + ")");
         }
-        return list;
     }
     public List<String> generateParenthesis(int nn) {
         n = nn;
-        return bt(0, 0, "");
+        bt(0, 0, "");
+        return list;
     }
 }
