@@ -180,6 +180,7 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/drashtim369/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/drashtim369/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/drashtim369/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/drashtim369/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -223,6 +224,7 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/drashtim369/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/drashtim369/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/drashtim369/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/drashtim369/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/drashtim369/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -275,6 +277,7 @@ g++ solution.cpp -o solution
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/drashtim369/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/drashtim369/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/drashtim369/leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/drashtim369/leetcode/tree/main/0051-n-queens/) | Hard |
