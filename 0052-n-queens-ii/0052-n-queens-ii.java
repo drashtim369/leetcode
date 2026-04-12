@@ -13,7 +13,7 @@ class Solution {
             if (isSafe(r, c)) {
                 board[r][c] = 'Q';
                 nQueens(c + 1);
-                board[r][c] = '.'; 
+                board[r][c] = '.'; // backtrack
             }
         }
     }
@@ -22,7 +22,7 @@ class Solution {
         for (int c = 0; c < col; c++) {
             if (board[row][c] == 'Q') return false;
         }
-        for (int r = row, c = col; r >= 0 && c >= 0; r--, c--) {
+        for (int r = row - 1, c = col - 1; r >= 0 && c >= 0; r--, c--) {
             if (board[r][c] == 'Q') return false;
         }
         for (int r = row + 1, c = col - 1; r < n && c >= 0; r++, c--) {
