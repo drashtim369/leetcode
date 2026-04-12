@@ -8,7 +8,7 @@ class Solution {
                 int b = stack[--top];
                 int a = stack[--top];
                 stack[top++] = a+b;
-            } else if(c=='-') {
+            } else if(c=='-' && s.length()==1) {
                 int b = stack[--top];
                 int a = stack[--top];
                 stack[top++] = a-b;
