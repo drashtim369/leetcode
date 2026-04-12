@@ -9,7 +9,7 @@ class Solution {
             if (used[i]) continue;
             used[i] = true;
             curr.add(nums[i]);
-            bt(nums, used, curr, res);
+            bt(nums, used, curr);
 
             // 🔙 backtrack
             curr.remove(curr.size() - 1);
