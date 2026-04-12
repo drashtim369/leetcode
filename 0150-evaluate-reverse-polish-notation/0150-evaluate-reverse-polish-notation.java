@@ -2,8 +2,7 @@ class Solution {
     public int evalRPN(String[] tokens) {
         int[] stack = new int[tokens.length];
         int top = 0;
-        for(String s : tokens) {
-            char c = s.charAt(0);
+        for(String c : tokens) {
             if(c=='+') {
                 int b = stack[--top];
                 int a = stack[--top];
@@ -21,7 +20,7 @@ class Solution {
                 int a = stack[--top];
                 stack[top++] = a/b;
             } else 
-                stack[top++] = Integer.parseInt(s);
+                stack[top++] = Integer.parseInt(c);
         }
         return stack[0];
     }
