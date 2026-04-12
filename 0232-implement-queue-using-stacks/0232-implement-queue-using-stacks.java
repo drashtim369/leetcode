@@ -1,22 +1,31 @@
 import java.util.*;
 
-class MyStack {
-    Queue<Integer> q = new LinkedList<>();
+class MyQueue {
+    Stack<Integer> in;
+    Stack<Integer> out;
 
+    public MyQueue() {
+        in = new Stack<>();
+        out = new Stack<>();
+    }
+    
     public void push(int x) {
-        q.add(x);
-        for (int i = 0; i < q.size() - 1; i++) q.add(q.remove());
+        in.push(x);
     }
-
+    
     public int pop() {
-        return q.remove();
+        peek();
+        return out.pop();
     }
-
-    public int top() {
-        return q.peek();
+    
+    public int peek() {
+        if (out.isEmpty()) {
+            while (!in.isEmpty()) out.push(in.pop());
+        }
+        return out.peek();
     }
-
+    
     public boolean empty() {
-        return q.isEmpty();
+        return in.isEmpty() && out.isEmpty();
     }
 }
