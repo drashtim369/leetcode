@@ -1,21 +1,30 @@
 class Solution {
-    void bt(int[] nums, boolean[] used List<Integer> curr, List<List<Integer>> res) {
+
+    void bt(int[] nums, boolean[] used, List<Integer> curr, List<List<Integer>> res) {
+
         if (curr.size() == nums.length) {
             res.add(new ArrayList<>(curr));
             return;
         }
-        for (int num : nums) {
-            if (used[i] == true) continue;
+
+        for (int i = 0; i < nums.length; i++) {
+
+            if (used[i]) continue;
+
             used[i] = true;
-            curr.add(num);
+            curr.add(nums[i]);
+
             bt(nums, used, curr, res);
+
+            // 🔙 backtrack
             curr.remove(curr.size() - 1);
             used[i] = false;
         }
     }
+
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
-        bt(nums, boolean[], used new ArrayList<>(), res);
+        bt(nums, new boolean[nums.length], new ArrayList<>(), res);
         return res;
     }
 }
