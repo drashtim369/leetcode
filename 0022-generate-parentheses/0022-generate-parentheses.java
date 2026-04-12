@@ -11,11 +11,11 @@ class Solution {
         }
         // add '('
         if (open < n) {
-            list.addAll(bt(open + 1, close, ans + "("));
+            bt(open + 1, close, ans + "(");
         }
         // add ')'
         if (close < open) {
-            list.addAll(bt(open, close + 1, ans + ")"));
+            bt(open, close + 1, ans + ")");
         }
         return list;
     }
