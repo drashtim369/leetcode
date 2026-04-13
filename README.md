@@ -302,11 +302,13 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/drashtim369/leetcode/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/drashtim369/leetcode/tree/main/0733-flood-fill/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -317,4 +319,12 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
