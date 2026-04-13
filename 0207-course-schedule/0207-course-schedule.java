@@ -20,7 +20,7 @@ class Solution {
         // Step 3: queue for indegree 0
         Queue<Integer> q = new LinkedList<>();
         for (int i = 0; i < numCourses; i++) {
-            if (i == 0) {
+            if (indeg[i] == 0) {
                 q.add(i);
             }
         }
