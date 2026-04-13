@@ -16,7 +16,10 @@ class MyLinkedList {
         list.add(val);
     }
     public void addAtIndex(int index, int val) {
-        if (list.size() > index) {
+        if (index == list.size()) {
+            addAtTail(val);
+        }
+        else if (list.size() > index) {
             list.add(index, val);
         }
     }  
