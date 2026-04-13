@@ -24,7 +24,7 @@ class MyLinkedList {
         }
     }  
     public void deleteAtIndex(int index) {
-        if (list.size() != index && list.size() > index) {
+        if (list.size() > index) {
             list.remove(index);
         }
     }
