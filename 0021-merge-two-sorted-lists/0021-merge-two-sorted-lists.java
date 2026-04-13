@@ -22,6 +22,6 @@ class Solution {
             temp.next = list2;
         }
 
-        return dummy.next;
+        return dummy;
     }
 }
