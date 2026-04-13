@@ -342,6 +342,7 @@ g++ solution.cpp -o solution
 | [0061-rotate-list](https://github.com/drashtim369/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/drashtim369/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/drashtim369/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/drashtim369/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/drashtim369/leetcode/tree/main/0707-design-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
