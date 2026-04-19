@@ -246,6 +246,7 @@ g++ solution.cpp -o solution
 | [0796-rotate-string](https://github.com/drashtim369/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/drashtim369/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/drashtim369/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/drashtim369/leetcode/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/drashtim369/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/drashtim369/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Stack
@@ -267,6 +268,7 @@ g++ solution.cpp -o solution
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/drashtim369/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0796-rotate-string](https://github.com/drashtim369/leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/drashtim369/leetcode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,8 +367,10 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/drashtim369/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/drashtim369/leetcode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/drashtim369/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/drashtim369/leetcode/tree/main/1392-longest-happy-prefix/) | Hard |
 <!---LeetCode Topics End-->
