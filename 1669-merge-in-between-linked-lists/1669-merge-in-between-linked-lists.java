@@ -5,7 +5,7 @@ class Solution {
             prev = prev.next;
         }
         ListNode curr = list1;
-        for (int i = 0; i <= b ; i++) {
+        for (int i = 0; i <= b; i++) {
             curr = curr.next;
         }
 
