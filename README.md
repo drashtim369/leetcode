@@ -240,6 +240,7 @@ g++ solution.cpp -o solution
 | [0151-reverse-words-in-a-string](https://github.com/drashtim369/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/drashtim369/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/drashtim369/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0214-shortest-palindrome](https://github.com/drashtim369/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/drashtim369/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/drashtim369/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/drashtim369/leetcode/tree/main/0796-rotate-string/) | Easy |
@@ -264,6 +265,7 @@ g++ solution.cpp -o solution
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/drashtim369/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0796-rotate-string](https://github.com/drashtim369/leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -359,4 +361,12 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/drashtim369/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/drashtim369/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/drashtim369/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
