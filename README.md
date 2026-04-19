@@ -158,6 +158,7 @@ g++ solution.cpp -o solution
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/drashtim369/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/drashtim369/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/drashtim369/leetcode/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +184,7 @@ g++ solution.cpp -o solution
 | [0633-sum-of-square-numbers](https://github.com/drashtim369/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/drashtim369/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/drashtim369/leetcode/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +288,7 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/drashtim369/leetcode/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
