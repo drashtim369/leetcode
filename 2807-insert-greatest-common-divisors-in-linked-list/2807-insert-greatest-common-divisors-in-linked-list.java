@@ -22,11 +22,6 @@ class Solution {
         return head;
     }
     int gcd(int a, int b) {
-        while (b != 0) {
-            int t = a % b;
-            a = b;
-            b = t;
-        }
-        return a;
+        return b == 0 ? a : gcd(b, a%b);
     }
 }
