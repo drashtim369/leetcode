@@ -1,15 +1,15 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        int[] freq = new int[3]; // a=0, b=1, c=2
-        int left = 0, count = 0;
+        int[] last = {-1, -1, -1}; // a, b, c
+        int count = 0;
 
-        for (int right = 0; right < s.length(); right++) {
-            freq[s.charAt(right) - 'a']++;
+        for (int i = 0; i < s.length(); i++) {
+            last[s.charAt(i) - 'a'] = i;
 
-            while (freq[0] > 0 && freq[1] > 0 && freq[2] > 0) {
-                count += s.length() - right;
-                freq[s.charAt(left) - 'a']--;
-                left++;
+            int minIndex = Math.min(last[0], Math.min(last[1], last[2]));
+
+            if (minIndex != -1) {
+                count += minIndex + 1;
             }
         }
         return count;
