@@ -172,6 +172,7 @@ g++ solution.cpp -o solution
 | [0283-move-zeroes](https://github.com/drashtim369/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drashtim369/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/drashtim369/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/drashtim369/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/drashtim369/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -356,6 +357,7 @@ g++ solution.cpp -o solution
 | [0328-odd-even-linked-list](https://github.com/drashtim369/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/drashtim369/leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/drashtim369/leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/drashtim369/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
