@@ -3,13 +3,13 @@ public:
     int findMin(vector<int>& nums) {
         int n = nums.size(), low = 0, high = n - 1, mn = INT_MAX;
         while (low < high) {
-            if (nums[low] > nums[high]) {
-                low++;
+            int mid = low + (high - low) / 2;
+            if (nums[mid] > nums[high]) {
+                low = mid + 1;
             } else {
-                high--;
+                high = mid;
             }
         }
-        cout << nums[low];
         return nums[low];
     }
 };
