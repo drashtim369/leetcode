@@ -148,6 +148,7 @@ g++ solution.cpp -o solution
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtim369/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/drashtim369/leetcode/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/drashtim369/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/drashtim369/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/drashtim369/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -207,6 +208,7 @@ g++ solution.cpp -o solution
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/drashtim369/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/drashtim369/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drashtim369/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
