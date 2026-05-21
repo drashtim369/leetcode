@@ -163,6 +163,7 @@ g++ solution.cpp -o solution
 | [0733-flood-fill](https://github.com/drashtim369/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/drashtim369/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/drashtim369/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/drashtim369/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/drashtim369/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/drashtim369/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -222,6 +223,7 @@ g++ solution.cpp -o solution
 | [0633-sum-of-square-numbers](https://github.com/drashtim369/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/drashtim369/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/drashtim369/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/drashtim369/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/drashtim369/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
