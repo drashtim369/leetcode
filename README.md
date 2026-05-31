@@ -195,6 +195,7 @@ g++ solution.cpp -o solution
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/drashtim369/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/drashtim369/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/drashtim369/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/drashtim369/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -389,6 +390,7 @@ g++ solution.cpp -o solution
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/drashtim369/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/drashtim369/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/drashtim369/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/drashtim369/leetcode/tree/main/0061-rotate-list/) | Medium |
@@ -410,6 +412,7 @@ g++ solution.cpp -o solution
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/drashtim369/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/drashtim369/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/drashtim369/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/drashtim369/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
