@@ -1,13 +1,16 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        unordered_map<char, char> mpp1, mpp2;
+        vector<int> mp1(256,-1), mp2(256,-1);
         for (int i = 0; i < s.size(); i++) {
-            if (!mpp1.count(s[i]) && !mpp2.count(t[i])) {
-              mpp1[s[i]] = t[i];
-              mpp2[t[i]] = s[i];  
-            } 
-            if (mpp1[s[i]] != t[i] || mpp2[t[i]] != s[i]) return false;
+            char a = s[i];
+            char b = t[i];
+            if (mp1[a] == -1 && mp2[b] == -1) {
+                mp1[a] = b;
+                mp2[b] = a;
+            } else {
+                if (mp1[a] != b || mp2[b] != a) return false;
+            }
         }
         return true;
     }
