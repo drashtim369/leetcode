@@ -6,7 +6,7 @@ public:
        while(i<g.size() && j<s.size()){
                 if(g[i]<=s[j]){
                     cnt++; i++;j++;
-                } else if(g[i]>s[j]){
+                } else {
                     j++;
                 }
 
