@@ -142,6 +142,7 @@ g++ solution.cpp -o solution
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/drashtim369/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/drashtim369/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/drashtim369/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/drashtim369/leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/drashtim369/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/drashtim369/leetcode/tree/main/0055-jump-game/) | Medium |
@@ -264,6 +265,7 @@ g++ solution.cpp -o solution
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/drashtim369/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/drashtim369/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/drashtim369/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/drashtim369/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtim369/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/drashtim369/leetcode/tree/main/0198-house-robber/) | Medium |
@@ -310,6 +312,7 @@ g++ solution.cpp -o solution
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/drashtim369/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/drashtim369/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/drashtim369/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/drashtim369/leetcode/tree/main/0455-assign-cookies/) | Easy |
