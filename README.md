@@ -311,6 +311,7 @@ g++ solution.cpp -o solution
 | [0020-valid-parentheses](https://github.com/drashtim369/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/drashtim369/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/drashtim369/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/drashtim369/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/drashtim369/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/drashtim369/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/drashtim369/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -375,6 +376,7 @@ g++ solution.cpp -o solution
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/drashtim369/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/drashtim369/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0707-design-linked-list](https://github.com/drashtim369/leetcode/tree/main/0707-design-linked-list/) | Medium |
 ## Queue
