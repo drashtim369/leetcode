@@ -397,6 +397,7 @@ g++ solution.cpp -o solution
 | [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0463-island-perimeter](https://github.com/drashtim369/leetcode/tree/main/0463-island-perimeter/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/drashtim369/leetcode/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -490,6 +491,7 @@ g++ solution.cpp -o solution
 | [0110-balanced-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,4 +501,5 @@ g++ solution.cpp -o solution
 | [0110-balanced-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
