@@ -25,6 +25,7 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
         Stack<TreeNode> st = new Stack<>();
         TreeNode node = root;
+        if (node == null) return ans;
         while (true) {
             if (node != null) {
                 st.push(node);
