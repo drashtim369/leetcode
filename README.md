@@ -145,6 +145,7 @@ g++ solution.cpp -o solution
 | [0042-trapping-rain-water](https://github.com/drashtim369/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/drashtim369/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/drashtim369/leetcode/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/drashtim369/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/drashtim369/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/drashtim369/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/drashtim369/leetcode/tree/main/0055-jump-game/) | Medium |
@@ -208,6 +209,7 @@ g++ solution.cpp -o solution
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/drashtim369/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/drashtim369/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/drashtim369/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/drashtim369/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/drashtim369/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/drashtim369/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -428,6 +430,7 @@ g++ solution.cpp -o solution
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/drashtim369/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/drashtim369/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/drashtim369/leetcode/tree/main/0463-island-perimeter/) | Easy |
