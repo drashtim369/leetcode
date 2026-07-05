@@ -148,6 +148,7 @@ g++ solution.cpp -o solution
 | [0051-n-queens](https://github.com/drashtim369/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/drashtim369/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/drashtim369/leetcode/tree/main/0055-jump-game/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/drashtim369/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/drashtim369/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/drashtim369/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtim369/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -223,6 +224,7 @@ g++ solution.cpp -o solution
 | [0001-two-sum](https://github.com/drashtim369/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/drashtim369/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/drashtim369/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/drashtim369/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/drashtim369/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/drashtim369/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/drashtim369/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -426,6 +428,7 @@ g++ solution.cpp -o solution
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/drashtim369/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/drashtim369/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/drashtim369/leetcode/tree/main/0733-flood-fill/) | Easy |
