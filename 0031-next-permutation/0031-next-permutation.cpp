@@ -1,26 +1,26 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int pivot, pivotVal, mn = INT_MAX;
-    for (int i = nums.size()-2; i >= 0; i--) {
-        if (nums[i] < nums[i+1]) {
-            pivot = i;
-            pivotVal = nums[i];
-            break;
+        int pivotIdx = -1; // Removed pivotVal since we must use index references
+        for (int i = 1; i < nums.size(); i++) {
+            if (nums[i-1] < nums[i]) {
+                pivotIdx = (i-1);
+            }
         }
-    }
-    if (pivot == -1) {
-        reverse(nums.begin(), nums.end());
-        return;
-    }
-    int idx = -1;
-    for (int i = nums.size() - 1; i > pivot; i--) {
-        if (nums[i] > pivotVal && nums[i] < mn) {
-            mn = nums[i];
-            idx = i;
+        if (pivotIdx == -1) { // Checked index instead of value
+            return reverse(nums.begin(), nums.end());
         }
-    }
-    swap(nums[pivot], nums[idx]);
-    reverse(nums.begin() + pivot + 1, nums.begin() + nums.size());
+        
+        // Find the smallest element larger than the pivot, ONLY to the right of pivotIdx
+        int successorIdx = pivotIdx + 1;
+        for (int i = pivotIdx + 1; i < nums.size(); i++) {
+            if (nums[i] > nums[pivotIdx] && nums[i] <= nums[successorIdx]) {
+                successorIdx = i;
+            }
+        }
+        
+        swap(nums[pivotIdx], nums[successorIdx]); // Swapped by reference inside the vector
+        reverse(nums.begin() + pivotIdx + 1, nums.end()); // Reversed starting from pivotIdx + 1
+        
     }
 };
