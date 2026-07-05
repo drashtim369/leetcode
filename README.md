@@ -148,6 +148,7 @@ g++ solution.cpp -o solution
 | [0048-rotate-image](https://github.com/drashtim369/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/drashtim369/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/drashtim369/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/drashtim369/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/drashtim369/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/drashtim369/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/drashtim369/leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -292,6 +293,7 @@ g++ solution.cpp -o solution
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/drashtim369/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/drashtim369/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -431,6 +433,7 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/drashtim369/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/drashtim369/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/drashtim369/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/drashtim369/leetcode/tree/main/0463-island-perimeter/) | Easy |
