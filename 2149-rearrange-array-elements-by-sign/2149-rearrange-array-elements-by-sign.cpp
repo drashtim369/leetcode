@@ -2,14 +2,12 @@ class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
         vector<int> res(nums.size());
-        int posIdx = 0, negIdx = 1; 
-        for (int i : nums) {
-            if (i > 0) {
-                res[posIdx] = i;
-                posIdx+=2;
+        int pos = 0, neg = 1;
+        for (int x : nums) {
+            if (x > 0) {
+                res[pos] = x; pos+=2;
             } else {
-                res[negIdx] = i;
-                negIdx+=2;
+                res[neg] = x; neg+=2;
             }
         }
         return res;
