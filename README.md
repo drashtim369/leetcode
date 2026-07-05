@@ -145,6 +145,7 @@ g++ solution.cpp -o solution
 | [0045-jump-game-ii](https://github.com/drashtim369/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/drashtim369/leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/drashtim369/leetcode/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/drashtim369/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/drashtim369/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/drashtim369/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/drashtim369/leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -274,6 +275,7 @@ g++ solution.cpp -o solution
 | [0022-generate-parentheses](https://github.com/drashtim369/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/drashtim369/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/drashtim369/leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/drashtim369/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/drashtim369/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/drashtim369/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtim369/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -488,6 +490,7 @@ g++ solution.cpp -o solution
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/drashtim369/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/drashtim369/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
