@@ -1,29 +1,28 @@
+#include <iostream>
+#include <string>
+#include <climits>
+
 class Solution {
 public:
-    int myAtoi(string s) {
-        long long ans = 0;
-        int sign = 1;
-        int i = 0;
-        while (i < s.size() && s[i] == ' ')
+    int myAtoi(std::string s) {
+        int i = 0, n = s.size(), sign = 1;
+        long sum = 0;
+        while (i < n && s[i] == ' ') {
             i++;
-        if (i < s.size() && s[i] == '-') {
+        }
+        if (i < n && s[i] == '-') {
             sign = -1;
             i++;
-        }
-        else if (i < s.size() && s[i] == '+') {
+        } else if (i < n && s[i] == '+') {
             i++;
         }
-        while (i < s.size()) {
-            if (s[i] < '0' || s[i] > '9')
-                break;
-            int digit = s[i] - '0';
-            if (ans > INT_MAX / 10 ||
-                (ans == INT_MAX / 10 && digit > 7)) {
-                return sign == 1 ? INT_MAX : INT_MIN;
-            }
-            ans = ans * 10 + digit;
+        while (i < n && s[i] >= '0' && s[i] <= '9') {
+            int digit = s[i] - '0'; // Convert character digit to integer
+            sum = sum * 10 + digit;
+            if (sign == 1 && sum > INT_MAX) return INT_MAX;
+            if (sign == -1 && -sum < INT_MIN) return INT_MIN;
             i++;
         }
-        return sign * ans;
+        return sum * sign;
     }
 };
