@@ -182,6 +182,7 @@ g++ solution.cpp -o solution
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/drashtim369/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/drashtim369/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2965-find-missing-and-repeated-values](https://github.com/drashtim369/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/drashtim369/leetcode/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -223,6 +224,7 @@ g++ solution.cpp -o solution
 | [1903-largest-odd-number-in-string](https://github.com/drashtim369/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/drashtim369/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/drashtim369/leetcode/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -243,6 +245,7 @@ g++ solution.cpp -o solution
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/drashtim369/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/drashtim369/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/drashtim369/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -443,6 +446,7 @@ g++ solution.cpp -o solution
 | [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/drashtim369/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/drashtim369/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/drashtim369/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
