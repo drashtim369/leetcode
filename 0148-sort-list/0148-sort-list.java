@@ -10,13 +10,16 @@
  */
 class Solution {
     public ListNode split(ListNode head) {
-        ListNode slow = head, fast = head.next;
+        ListNode slow = head, fast = head, prev = null;
         while (fast != null && fast.next != null) {
+            prev = slow;
             slow = slow.next;
             fast = fast.next.next;
         }
-        ListNode temp = slow.next;
-        slow.next = null;
+        ListNode temp = slow;
+        if (prev != null) {
+            prev.next = null;
+        }
         return temp;
     }
     public ListNode merge(ListNode first, ListNode second) {
@@ -31,10 +34,12 @@ class Solution {
         }
     }
     public ListNode sortList(ListNode head) {
-        if (head == null || head.next == null) return head;
+         if (head == null || head.next == null) {
+            return head;
+        }
         ListNode temp = split(head);
         head = sortList(head);
         temp = sortList(temp);
-        return merge(head, temp);
+        return merge(head,temp);
     }
 }
