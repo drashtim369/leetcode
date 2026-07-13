@@ -186,6 +186,7 @@ g++ solution.cpp -o solution
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/drashtim369/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/drashtim369/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/drashtim369/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/drashtim369/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/drashtim369/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/drashtim369/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -361,6 +362,7 @@ g++ solution.cpp -o solution
 | [1019-next-greater-node-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/drashtim369/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/drashtim369/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/drashtim369/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/drashtim369/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -407,6 +409,7 @@ g++ solution.cpp -o solution
 | [0503-next-greater-element-ii](https://github.com/drashtim369/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/drashtim369/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/drashtim369/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/drashtim369/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
