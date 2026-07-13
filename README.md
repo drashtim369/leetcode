@@ -165,6 +165,7 @@ g++ solution.cpp -o solution
 | [0189-rotate-array](https://github.com/drashtim369/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/drashtim369/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/drashtim369/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/drashtim369/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/drashtim369/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -392,6 +393,7 @@ g++ solution.cpp -o solution
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/drashtim369/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/drashtim369/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Bucket Sort
@@ -442,6 +444,7 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/drashtim369/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/drashtim369/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -527,6 +530,7 @@ g++ solution.cpp -o solution
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/drashtim369/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/drashtim369/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -584,4 +588,8 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/drashtim369/leetcode/tree/main/0901-online-stock-span/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/drashtim369/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
