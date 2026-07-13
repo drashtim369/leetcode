@@ -46,7 +46,7 @@ public:
             }
             st.push(i);
         }
-        long long ans = 0;
+        long long ans = 0; 
         for (int i = 0; i < n; i++) {
             long long maxContribution = 1LL * nums[i] * (i - leftLargest[i]) * (rightLargest[i] - i);
             long long minContribution = 1LL * nums[i] * (i - leftSmallest[i]) * (rightSmallest[i] - i);    
