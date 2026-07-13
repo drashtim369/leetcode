@@ -361,6 +361,7 @@ g++ solution.cpp -o solution
 | [0503-next-greater-element-ii](https://github.com/drashtim369/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/drashtim369/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/drashtim369/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [0901-online-stock-span](https://github.com/drashtim369/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/drashtim369/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/drashtim369/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -411,6 +412,7 @@ g++ solution.cpp -o solution
 | [0402-remove-k-digits](https://github.com/drashtim369/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/drashtim369/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/drashtim369/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/drashtim369/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/drashtim369/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/drashtim369/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -435,6 +437,7 @@ g++ solution.cpp -o solution
 | [0155-min-stack](https://github.com/drashtim369/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/drashtim369/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0707-design-linked-list](https://github.com/drashtim369/leetcode/tree/main/0707-design-linked-list/) | Medium |
+| [0901-online-stock-span](https://github.com/drashtim369/leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -577,4 +580,8 @@ g++ solution.cpp -o solution
 | [0145-binary-tree-postorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/drashtim369/leetcode/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
