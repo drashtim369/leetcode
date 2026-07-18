@@ -244,6 +244,7 @@ g++ solution.cpp -o solution
 | [0013-roman-to-integer](https://github.com/drashtim369/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/drashtim369/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/drashtim369/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/drashtim369/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/drashtim369/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/drashtim369/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/drashtim369/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -508,6 +509,7 @@ g++ solution.cpp -o solution
 | [0019-remove-nth-node-from-end-of-list](https://github.com/drashtim369/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/drashtim369/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/drashtim369/leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/drashtim369/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/drashtim369/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/drashtim369/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/drashtim369/leetcode/tree/main/0148-sort-list/) | Medium |
