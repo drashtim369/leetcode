@@ -30,11 +30,10 @@ class Solution {
             }
             curr = curr.next.next;
         }
-        curr = head;
-        Node copyHead = head.next;
+        curr = head; Node copyHead = head.next;
         while (curr != null) {
             Node copy = curr.next;
-            curr.next = copy.next;
+            curr.next = copy.next; 
             if (copy.next != null) {
                 copy.next = copy.next.next;
             }
