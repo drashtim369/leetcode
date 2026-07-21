@@ -185,6 +185,7 @@ g++ solution.cpp -o solution
 | [0907-sum-of-subarray-minimums](https://github.com/drashtim369/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/drashtim369/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/drashtim369/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/drashtim369/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/drashtim369/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -232,6 +233,7 @@ g++ solution.cpp -o solution
 | [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0400-nth-digit](https://github.com/drashtim369/leetcode/tree/main/0400-nth-digit/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/drashtim369/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/drashtim369/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -258,6 +260,7 @@ g++ solution.cpp -o solution
 | [0496-next-greater-element-i](https://github.com/drashtim369/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/drashtim369/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/drashtim369/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/drashtim369/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/drashtim369/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -542,6 +545,7 @@ g++ solution.cpp -o solution
 | [0239-sliding-window-maximum](https://github.com/drashtim369/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/drashtim369/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/drashtim369/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/drashtim369/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -559,6 +563,7 @@ g++ solution.cpp -o solution
 | [0410-split-array-largest-sum](https://github.com/drashtim369/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/drashtim369/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/drashtim369/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
