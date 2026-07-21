@@ -187,6 +187,7 @@ g++ solution.cpp -o solution
 | [1019-next-greater-node-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/drashtim369/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/drashtim369/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/drashtim369/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/drashtim369/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/drashtim369/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -547,6 +548,7 @@ g++ solution.cpp -o solution
 | [1004-max-consecutive-ones-iii](https://github.com/drashtim369/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/drashtim369/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/drashtim369/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -564,6 +566,7 @@ g++ solution.cpp -o solution
 | [0560-subarray-sum-equals-k](https://github.com/drashtim369/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/drashtim369/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/drashtim369/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
