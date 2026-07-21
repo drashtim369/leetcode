@@ -183,6 +183,7 @@ g++ solution.cpp -o solution
 | [0860-lemonade-change](https://github.com/drashtim369/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/drashtim369/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/drashtim369/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/drashtim369/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/drashtim369/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -261,6 +262,7 @@ g++ solution.cpp -o solution
 | [0496-next-greater-element-i](https://github.com/drashtim369/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/drashtim369/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0992-subarrays-with-k-different-integers](https://github.com/drashtim369/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/drashtim369/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/drashtim369/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -415,6 +417,7 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/drashtim369/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/drashtim369/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/drashtim369/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -545,6 +548,7 @@ g++ solution.cpp -o solution
 | [0003-longest-substring-without-repeating-characters](https://github.com/drashtim369/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/drashtim369/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/drashtim369/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/drashtim369/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/drashtim369/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/drashtim369/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
