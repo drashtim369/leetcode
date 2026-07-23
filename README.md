@@ -478,6 +478,7 @@ g++ solution.cpp -o solution
 | [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0463-island-perimeter](https://github.com/drashtim369/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/drashtim369/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
@@ -492,6 +493,7 @@ g++ solution.cpp -o solution
 | [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0463-island-perimeter](https://github.com/drashtim369/leetcode/tree/main/0463-island-perimeter/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/drashtim369/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Matrix
@@ -602,6 +604,7 @@ g++ solution.cpp -o solution
 | [0145-binary-tree-postorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/drashtim369/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -618,6 +621,7 @@ g++ solution.cpp -o solution
 | [0145-binary-tree-postorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/drashtim369/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
