@@ -1,643 +1,392 @@
- 
-# 🚀 Drashti Madhiwala's LeetCode Journey!
+# 🚀 Drashti Madhiwala's LeetCode Journey
 
-**C++ Solutions | DSA Mastery | Interview Ready**
+<p align="center">
 
-Welcome to my **LeetCode journey**, where I solve problems with **clarity, efficiency, and consistency**, building a strong foundation for software development and technical interviews.
+![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Interview%20Preparation-Active-brightgreen?style=for-the-badge)
 
----
-
-## 📌 About This Repository
-
-This repo documents my **progress in mastering DSA** using C++:
-
-* Strong fundamentals in **Arrays, Linked Lists, Stacks, Queues, Hashing, DP, Prefix Sum, Math**
-* **Clean, readable, and maintainable code**
-* **Optimized approaches** to solve problems efficiently
-* Focus on **core patterns that appear in interviews**
-* Actively tracking **growth and consistency**
+</p>
 
 ---
 
-## 📊 Overall Progress
+# 👋 About Me
 
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-30+-brightgreen)
-![Language](https://img.shields.io/badge/Language-C++-blue)
-![Difficulty Focus](https://img.shields.io/badge/Easy%2FMedium-Covered-orange)
+Hi! I'm **Drashti Madhiwala**.
 
-**Problem Breakdown by Difficulty:**
+I'm consistently solving LeetCode problems to strengthen my problem-solving skills, master Data Structures & Algorithms, and prepare for Software Engineering interviews.
 
-* 🟢 **Easy:** 20+
-* 🟡 **Medium:** 10+
-* 🔴 **Hard:** In Progress
+This repository serves as my complete DSA journey and contains optimized C++ solutions for every problem I've solved.
 
----
+My goals are:
 
-## 📋 Solved Problems (Core Highlights)
-
-| #    | Problem                              | Difficulty | Core Concept          |
-| ---- | ------------------------------------ | ---------- | --------------------- |
-| 0001 | Two Sum                              | Easy       | Hash Map              |
-| 0007 | Reverse Integer                      | Easy       | Math                  |
-| 0009 | Palindrome Number                    | Easy       | Math / String         |
-| 0026 | Remove Duplicates from Sorted Array  | Easy       | Two Pointers          |
-| 0027 | Remove Element                       | Easy       | Two Pointers          |
-| 0031 | Next Permutation                     | Medium     | Arrays                |
-| 0053 | Maximum Subarray                     | Medium     | Kadane’s Algorithm    |
-| 0066 | Plus One                             | Easy       | Math                  |
-| 0075 | Sort Colors                          | Medium     | Dutch National Flag   |
-| 0121 | Best Time to Buy and Sell Stock      | Easy       | Greedy                |
-| 0125 | Valid Palindrome                     | Easy       | String / Two Pointers |
-| 0128 | Longest Consecutive Sequence         | Medium     | Hash Set              |
-| 0136 | Single Number                        | Easy       | XOR                   |
-| 0152 | Maximum Product Subarray             | Medium     | DP                    |
-| 0169 | Majority Element                     | Easy       | Boyer-Moore Voting    |
-| 0189 | Rotate Array                         | Medium     | Array Reversal        |
-| 0203 | Remove Linked List Elements          | Easy       | Linked List           |
-| 0206 | Reverse Linked List                  | Easy       | Linked List           |
-| 0225 | Implement Stack using Queues         | Easy       | Stack                 |
-| 0232 | Implement Queue using Stacks         | Easy       | Queue                 |
-| 0268 | Missing Number                       | Easy       | XOR / Math            |
-| 0283 | Move Zeroes                          | Easy       | Two Pointers          |
-| 0485 | Max Consecutive Ones                 | Easy       | Arrays                |
-| 0509 | Fibonacci Number                     | Easy       | Recursion / DP        |
-| 0560 | Subarray Sum Equals K                | Medium     | Prefix Sum            |
-| 1721 | Swapping Nodes in a Linked List      | Medium     | Linked List           |
-| 1752 | Check if Array Is Sorted and Rotated | Easy       | Arrays                |
-| 2149 | Rearrange Array Elements by Sign     | Medium     | Arrays                |
-| 2807 | Insert GCD in Linked List            | Medium     | Linked List + Math    |
+- 💻 Become an excellent problem solver
+- 📈 Master DSA patterns
+- 🚀 Crack Software Engineering interviews
+- 🌱 Build consistency through daily coding
 
 ---
 
-## 📂 Repository Structure
+# 📊 Repository Statistics
 
-```bash
+## Overall Progress
+
+- ✅ **100+ Problems Solved**
+- 💻 **Language:** C++
+- 🔥 **LeetHub Auto Sync Enabled**
+- 📚 **30+ DSA Topics Covered**
+- 🎯 **Interview Preparation Focused**
+
+---
+
+# 🧠 Topics Covered
+
+## Arrays
+
+- Two Sum
+- Rotate Array
+- Plus One
+- Spiral Matrix
+- Set Matrix Zeroes
+- Rotate Image
+- Rearrange Array Elements by Sign
+- Missing Number
+- Maximum Subarray
+- Move Zeroes
+- Jump Game
+- Jump Game II
+- Sort Colors
+- Merge Intervals
+- Trapping Rain Water
+- and many more...
+
+---
+
+## Strings
+
+- Longest Common Prefix
+- Longest Palindromic Substring
+- Atoi
+- Reverse Words
+- Minimum Window Substring
+- Valid Parentheses
+- Valid Palindrome
+- Longest Happy Prefix
+- Rotate String
+- Remove K Digits
+- Character Replacement
+- Beauty of All Substrings
+
+---
+
+## Linked Lists
+
+- Add Two Numbers
+- Merge Two Lists
+- Reverse Linked List
+- Middle of Linked List
+- Linked List Cycle
+- Cycle II
+- Sort List
+- Odd Even Linked List
+- Delete Middle Node
+- Insert GCD
+- Remove Nodes
+- Swapping Nodes
+- Copy List with Random Pointer
+- Merge In Between Lists
+
+---
+
+## Trees
+
+- Inorder Traversal
+- Preorder Traversal
+- Postorder Traversal
+- Same Tree
+- Symmetric Tree
+- Maximum Depth
+- Balanced Binary Tree
+- Binary Tree Right Side View
+- Vertical Order Traversal
+- Width of Binary Tree
+- Distance K
+- Count Complete Tree Nodes
+- Maximum Path Sum
+- Zigzag Traversal
+
+---
+
+## Binary Search
+
+- Binary Search
+- Search Insert Position
+- Search Rotated Array
+- Peak Element
+- Capacity to Ship Packages
+- Koko Eating Bananas
+- Split Array Largest Sum
+- Minimum Days to Make Bouquets
+- Smallest Divisor
+
+---
+
+## Stack & Queue
+
+- Min Stack
+- Queue using Stacks
+- Stack using Queues
+- Online Stock Span
+- Asteroid Collision
+- Largest Rectangle Histogram
+- Maximal Rectangle
+- Evaluate Reverse Polish Notation
+- Remove K Digits
+- Next Greater Element I
+- Next Greater Element II
+- Sum of Subarray Minimums
+- Sum of Subarray Ranges
+
+---
+
+## Sliding Window
+
+- Longest Substring Without Repeating Characters
+- Minimum Window Substring
+- Character Replacement
+- Max Consecutive Ones III
+- Sliding Window Maximum
+- Nice Subarrays
+- Subarrays with K Distinct
+- Maximum Card Points
+
+---
+
+## Dynamic Programming
+
+- Maximum Subarray
+- House Robber
+- Jump Game
+- Jump Game II
+- Longest Increasing Subsequence
+- Pascal's Triangle
+- Fibonacci
+- Maximum Product Subarray
+- Generate Parentheses
+
+---
+
+## Graphs
+
+- Number of Islands
+- Course Schedule
+- Flood Fill
+
+---
+
+## Other Concepts
+
+- Hash Maps
+- Prefix Sum
+- Greedy
+- Recursion
+- Backtracking
+- DFS
+- BFS
+- Monotonic Stack
+- Heap
+- Trie
+- Number Theory
+- Matrix
+- Divide & Conquer
+- Merge Sort
+- Topological Sort
+- Union Find
+- Design Problems
+
+---
+
+# 📚 Problems Solved
+
+## Easy
+
+- Two Sum
+- Palindrome Number
+- Roman to Integer
+- Longest Common Prefix
+- Remove Duplicates
+- Remove Element
+- Search Insert Position
+- Merge Sorted Array
+- Pascal's Triangle
+- Best Time to Buy & Sell Stock
+- Valid Palindrome
+- Single Number
+- Excel Column Title
+- Majority Element
+- Missing Number
+- Move Zeroes
+- Intersection of Arrays
+- Island Perimeter
+- Max Consecutive Ones
+- Lemonade Change
+- Binary Search
+- Flood Fill
+- Rotate String
+- Middle of Linked List
+- Fibonacci
+- Valid Anagram
+- Same Tree
+- Symmetric Tree
+- Balanced Binary Tree
+- Diameter of Binary Tree
+- and many more...
+
+---
+
+## Medium
+
+- Add Two Numbers
+- Longest Substring Without Repeating Characters
+- 3Sum
+- 4Sum
+- Next Permutation
+- Search Rotated Array
+- Spiral Matrix
+- Rotate Image
+- N Queens
+- Jump Game
+- Merge Intervals
+- Rotate List
+- Sort Colors
+- Largest Rectangle
+- Maximal Rectangle
+- Sort List
+- House Robber
+- Number of Islands
+- Course Schedule
+- Sliding Window Maximum
+- Longest Increasing Subsequence
+- Online Stock Span
+- Sum of Subarray Minimums
+- Asteroid Collision
+- Character Replacement
+- Nice Subarrays
+- Card Points
+- Koko Eating Bananas
+- Binary Tree Right Side View
+- Count Complete Tree Nodes
+- Width of Binary Tree
+- Vertical Traversal
+- and many more...
+
+---
+
+## Hard
+
+- Trapping Rain Water
+- Largest Rectangle Histogram
+- Maximal Rectangle
+- Minimum Window Substring
+- Sliding Window Maximum
+- Split Array Largest Sum
+- Maximum Path Sum
+- Vertical Traversal
+- Subarrays with K Distinct
+- Longest Happy Prefix
+- Shortest Palindrome
+
+---
+
+# 📂 Repository Structure
+
+```
 leetcode/
+│
 ├── 0001-two-sum/
-├── 0026-remove-duplicates-from-sorted-array/
-├── 0031-next-permutation/
-├── 0053-maximum-subarray/
-├── 0075-sort-colors/
-├── 0128-longest-consecutive-sequence/
-├── 0206-reverse-linked-list/
-├── 0560-subarray-sum-equals-k/
-├── 2807-insert-gcd-in-linked-list/
+├── 0002-add-two-numbers/
+├── 0003-longest-substring-without-repeating-characters/
+├── ...
+├── 3770-largest-prime-from-consecutive-prime-sum/
+│
 └── README.md
 ```
 
 Each folder contains:
 
-* **C++ solution with optimal logic**
-* **Well-commented and clean code**
-* **LeetHub auto-sync ready**
+- ✅ Optimized C++ solution
+- ✅ LeetCode submission
+- ✅ LeetHub auto-generated README (where available)
 
 ---
 
-## ⚙️ How to Run
+# 🎯 Current Goals
 
-```bash
-git clone https://github.com/drashtim369/leetcode.git
-cd <problem-folder>
-g++ solution.cpp -o solution
-./solution
-```
-
----
-
-## 🧭 Roadmap (Next Milestones)
-
-✔ Finish remaining **core Medium problems**
-🔜 Binary Search & Sliding Window
-🔜 Trees & Recursion
-🔜 Graphs & BFS / DFS
-🔜 Hard-level problems 🚀
+- ✅ Finish Striver A2Z Sheet
+- 🔄 Reach 200+ LeetCode problems
+- 🔄 Master Graphs
+- 🔄 Master Dynamic Programming
+- 🔄 Improve contest rating
+- 🔄 Prepare for SDE interviews
 
 ---
 
-## ⚡ Why Recruiters Should Notice Me
+# 💡 My Coding Philosophy
 
-* ✅ Strong **DSA foundation** with clean C++ code
-* ✅ Proven **problem-solving ability** across Arrays, Linked Lists, Stacks, Queues, DP, Hashing, Prefix Sum
-* ✅ Active learner, **consistent growth**, and building **interview readiness**
-* ✅ Ready to tackle **software development & competitive programming challenges**
+For every problem I:
+
+- Understand the brute-force approach first.
+- Optimize time and space complexity.
+- Write clean, readable C++ code.
+- Learn the underlying DSA pattern.
+- Revisit difficult problems until they become intuitive.
 
 ---
 
-## 🌟 Fun Stats :>
+# 🛠 Tech Stack
 
-![LeetCode Easy](https://img.shields.io/badge/Easy-20+-green)
-![LeetCode Medium](https://img.shields.io/badge/Medium-10+-orange)
-![DSA Focus](https://img.shields.io/badge/DSA-Covered-blue)
+- C++
+- STL
+- LeetCode
+- Git
+- GitHub
+- LeetHub
 
+---
 
+# 📈 Future Roadmap
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001-two-sum](https://github.com/drashtim369/leetcode/tree/main/0001-two-sum/) | Easy |
-| [0014-longest-common-prefix](https://github.com/drashtim369/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
-| [0018-4sum](https://github.com/drashtim369/leetcode/tree/main/0018-4sum/) | Medium |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
-| [0031-next-permutation](https://github.com/drashtim369/leetcode/tree/main/0031-next-permutation/) | Medium |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
-| [0035-search-insert-position](https://github.com/drashtim369/leetcode/tree/main/0035-search-insert-position/) | Easy |
-| [0042-trapping-rain-water](https://github.com/drashtim369/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
-| [0045-jump-game-ii](https://github.com/drashtim369/leetcode/tree/main/0045-jump-game-ii/) | Medium |
-| [0046-permutations](https://github.com/drashtim369/leetcode/tree/main/0046-permutations/) | Medium |
-| [0048-rotate-image](https://github.com/drashtim369/leetcode/tree/main/0048-rotate-image/) | Medium |
-| [0051-n-queens](https://github.com/drashtim369/leetcode/tree/main/0051-n-queens/) | Hard |
-| [0053-maximum-subarray](https://github.com/drashtim369/leetcode/tree/main/0053-maximum-subarray/) | Medium |
-| [0054-spiral-matrix](https://github.com/drashtim369/leetcode/tree/main/0054-spiral-matrix/) | Medium |
-| [0055-jump-game](https://github.com/drashtim369/leetcode/tree/main/0055-jump-game/) | Medium |
-| [0073-set-matrix-zeroes](https://github.com/drashtim369/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
-| [0075-sort-colors](https://github.com/drashtim369/leetcode/tree/main/0075-sort-colors/) | Medium |
-| [0084-largest-rectangle-in-histogram](https://github.com/drashtim369/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
-| [0085-maximal-rectangle](https://github.com/drashtim369/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
-| [0088-merge-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
-| [0118-pascals-triangle](https://github.com/drashtim369/leetcode/tree/main/0118-pascals-triangle/) | Easy |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtim369/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
-| [0136-single-number](https://github.com/drashtim369/leetcode/tree/main/0136-single-number/) | Easy |
-| [0150-evaluate-reverse-polish-notation](https://github.com/drashtim369/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
-| [0162-find-peak-element](https://github.com/drashtim369/leetcode/tree/main/0162-find-peak-element/) | Medium |
-| [0189-rotate-array](https://github.com/drashtim369/leetcode/tree/main/0189-rotate-array/) | Medium |
-| [0198-house-robber](https://github.com/drashtim369/leetcode/tree/main/0198-house-robber/) | Medium |
-| [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
-| [0239-sliding-window-maximum](https://github.com/drashtim369/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
-| [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
-| [0283-move-zeroes](https://github.com/drashtim369/leetcode/tree/main/0283-move-zeroes/) | Easy |
-| [0300-longest-increasing-subsequence](https://github.com/drashtim369/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
-| [0350-intersection-of-two-arrays-ii](https://github.com/drashtim369/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
-| [0410-split-array-largest-sum](https://github.com/drashtim369/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
-| [0455-assign-cookies](https://github.com/drashtim369/leetcode/tree/main/0455-assign-cookies/) | Easy |
-| [0463-island-perimeter](https://github.com/drashtim369/leetcode/tree/main/0463-island-perimeter/) | Easy |
-| [0496-next-greater-element-i](https://github.com/drashtim369/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
-| [0503-next-greater-element-ii](https://github.com/drashtim369/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
-| [0540-single-element-in-a-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
-| [0560-subarray-sum-equals-k](https://github.com/drashtim369/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
-| [0704-binary-search](https://github.com/drashtim369/leetcode/tree/main/0704-binary-search/) | Easy |
-| [0733-flood-fill](https://github.com/drashtim369/leetcode/tree/main/0733-flood-fill/) | Easy |
-| [0735-asteroid-collision](https://github.com/drashtim369/leetcode/tree/main/0735-asteroid-collision/) | Medium |
-| [0860-lemonade-change](https://github.com/drashtim369/leetcode/tree/main/0860-lemonade-change/) | Easy |
-| [0875-koko-eating-bananas](https://github.com/drashtim369/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
-| [0907-sum-of-subarray-minimums](https://github.com/drashtim369/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
-| [0992-subarrays-with-k-different-integers](https://github.com/drashtim369/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
-| [1004-max-consecutive-ones-iii](https://github.com/drashtim369/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
-| [1019-next-greater-node-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
-| [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/drashtim369/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/drashtim369/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
-| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/drashtim369/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
-| [1539-kth-missing-positive-number](https://github.com/drashtim369/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
-| [1752-check-if-array-is-sorted-and-rotated](https://github.com/drashtim369/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
-| [2104-sum-of-subarray-ranges](https://github.com/drashtim369/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
-| [2149-rearrange-array-elements-by-sign](https://github.com/drashtim369/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
-| [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
-| [2965-find-missing-and-repeated-values](https://github.com/drashtim369/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
-| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/drashtim369/leetcode/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0005-longest-palindromic-substring](https://github.com/drashtim369/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
-| [0018-4sum](https://github.com/drashtim369/leetcode/tree/main/0018-4sum/) | Medium |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/drashtim369/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
-| [0031-next-permutation](https://github.com/drashtim369/leetcode/tree/main/0031-next-permutation/) | Medium |
-| [0042-trapping-rain-water](https://github.com/drashtim369/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
-| [0061-rotate-list](https://github.com/drashtim369/leetcode/tree/main/0061-rotate-list/) | Medium |
-| [0075-sort-colors](https://github.com/drashtim369/leetcode/tree/main/0075-sort-colors/) | Medium |
-| [0088-merge-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
-| [0141-linked-list-cycle](https://github.com/drashtim369/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
-| [0142-linked-list-cycle-ii](https://github.com/drashtim369/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
-| [0148-sort-list](https://github.com/drashtim369/leetcode/tree/main/0148-sort-list/) | Medium |
-| [0151-reverse-words-in-a-string](https://github.com/drashtim369/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
-| [0160-intersection-of-two-linked-lists](https://github.com/drashtim369/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
-| [0189-rotate-array](https://github.com/drashtim369/leetcode/tree/main/0189-rotate-array/) | Medium |
-| [0234-palindrome-linked-list](https://github.com/drashtim369/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
-| [0283-move-zeroes](https://github.com/drashtim369/leetcode/tree/main/0283-move-zeroes/) | Easy |
-| [0350-intersection-of-two-arrays-ii](https://github.com/drashtim369/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
-| [0455-assign-cookies](https://github.com/drashtim369/leetcode/tree/main/0455-assign-cookies/) | Easy |
-| [0633-sum-of-square-numbers](https://github.com/drashtim369/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
-| [1721-swapping-nodes-in-a-linked-list](https://github.com/drashtim369/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
-| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/drashtim369/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
-| [2149-rearrange-array-elements-by-sign](https://github.com/drashtim369/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/drashtim369/leetcode/tree/main/0002-add-two-numbers/) | Medium |
-| [0013-roman-to-integer](https://github.com/drashtim369/leetcode/tree/main/0013-roman-to-integer/) | Easy |
-| [0048-rotate-image](https://github.com/drashtim369/leetcode/tree/main/0048-rotate-image/) | Medium |
-| [0150-evaluate-reverse-polish-notation](https://github.com/drashtim369/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
-| [0168-excel-sheet-column-title](https://github.com/drashtim369/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
-| [0189-rotate-array](https://github.com/drashtim369/leetcode/tree/main/0189-rotate-array/) | Medium |
-| [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
-| [0400-nth-digit](https://github.com/drashtim369/leetcode/tree/main/0400-nth-digit/) | Medium |
-| [0633-sum-of-square-numbers](https://github.com/drashtim369/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
-| [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-| [1903-largest-odd-number-in-string](https://github.com/drashtim369/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
-| [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
-| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
-| [2965-find-missing-and-repeated-values](https://github.com/drashtim369/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
-| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/drashtim369/leetcode/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001-two-sum](https://github.com/drashtim369/leetcode/tree/main/0001-two-sum/) | Easy |
-| [0003-longest-substring-without-repeating-characters](https://github.com/drashtim369/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0013-roman-to-integer](https://github.com/drashtim369/leetcode/tree/main/0013-roman-to-integer/) | Easy |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/drashtim369/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
-| [0073-set-matrix-zeroes](https://github.com/drashtim369/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
-| [0076-minimum-window-substring](https://github.com/drashtim369/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
-| [0138-copy-list-with-random-pointer](https://github.com/drashtim369/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
-| [0141-linked-list-cycle](https://github.com/drashtim369/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
-| [0142-linked-list-cycle-ii](https://github.com/drashtim369/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
-| [0160-intersection-of-two-linked-lists](https://github.com/drashtim369/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
-| [0205-isomorphic-strings](https://github.com/drashtim369/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
-| [0242-valid-anagram](https://github.com/drashtim369/leetcode/tree/main/0242-valid-anagram/) | Easy |
-| [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
-| [0350-intersection-of-two-arrays-ii](https://github.com/drashtim369/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
-| [0424-longest-repeating-character-replacement](https://github.com/drashtim369/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
-| [0451-sort-characters-by-frequency](https://github.com/drashtim369/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
-| [0496-next-greater-element-i](https://github.com/drashtim369/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
-| [0560-subarray-sum-equals-k](https://github.com/drashtim369/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
-| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
-| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
-| [0992-subarrays-with-k-different-integers](https://github.com/drashtim369/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
-| [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/drashtim369/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
-| [1781-sum-of-beauty-of-all-substrings](https://github.com/drashtim369/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
-| [2965-find-missing-and-repeated-values](https://github.com/drashtim369/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
-| [0035-search-insert-position](https://github.com/drashtim369/leetcode/tree/main/0035-search-insert-position/) | Easy |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
-| [0162-find-peak-element](https://github.com/drashtim369/leetcode/tree/main/0162-find-peak-element/) | Medium |
-| [0222-count-complete-tree-nodes](https://github.com/drashtim369/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
-| [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
-| [0300-longest-increasing-subsequence](https://github.com/drashtim369/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
-| [0350-intersection-of-two-arrays-ii](https://github.com/drashtim369/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
-| [0400-nth-digit](https://github.com/drashtim369/leetcode/tree/main/0400-nth-digit/) | Medium |
-| [0410-split-array-largest-sum](https://github.com/drashtim369/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
-| [0540-single-element-in-a-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
-| [0633-sum-of-square-numbers](https://github.com/drashtim369/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
-| [0704-binary-search](https://github.com/drashtim369/leetcode/tree/main/0704-binary-search/) | Easy |
-| [0875-koko-eating-bananas](https://github.com/drashtim369/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
-| [1004-max-consecutive-ones-iii](https://github.com/drashtim369/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
-| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/drashtim369/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
-| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/drashtim369/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
-| [1539-kth-missing-positive-number](https://github.com/drashtim369/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0018-4sum](https://github.com/drashtim369/leetcode/tree/main/0018-4sum/) | Medium |
-| [0075-sort-colors](https://github.com/drashtim369/leetcode/tree/main/0075-sort-colors/) | Medium |
-| [0088-merge-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
-| [0148-sort-list](https://github.com/drashtim369/leetcode/tree/main/0148-sort-list/) | Medium |
-| [0242-valid-anagram](https://github.com/drashtim369/leetcode/tree/main/0242-valid-anagram/) | Easy |
-| [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
-| [0350-intersection-of-two-arrays-ii](https://github.com/drashtim369/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
-| [0451-sort-characters-by-frequency](https://github.com/drashtim369/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
-| [0455-assign-cookies](https://github.com/drashtim369/leetcode/tree/main/0455-assign-cookies/) | Easy |
-| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
-| [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0136-single-number](https://github.com/drashtim369/leetcode/tree/main/0136-single-number/) | Easy |
-| [0222-count-complete-tree-nodes](https://github.com/drashtim369/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
-| [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0005-longest-palindromic-substring](https://github.com/drashtim369/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
-| [0022-generate-parentheses](https://github.com/drashtim369/leetcode/tree/main/0022-generate-parentheses/) | Medium |
-| [0042-trapping-rain-water](https://github.com/drashtim369/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
-| [0045-jump-game-ii](https://github.com/drashtim369/leetcode/tree/main/0045-jump-game-ii/) | Medium |
-| [0053-maximum-subarray](https://github.com/drashtim369/leetcode/tree/main/0053-maximum-subarray/) | Medium |
-| [0055-jump-game](https://github.com/drashtim369/leetcode/tree/main/0055-jump-game/) | Medium |
-| [0085-maximal-rectangle](https://github.com/drashtim369/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
-| [0118-pascals-triangle](https://github.com/drashtim369/leetcode/tree/main/0118-pascals-triangle/) | Easy |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtim369/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
-| [0124-binary-tree-maximum-path-sum](https://github.com/drashtim369/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
-| [0198-house-robber](https://github.com/drashtim369/leetcode/tree/main/0198-house-robber/) | Medium |
-| [0300-longest-increasing-subsequence](https://github.com/drashtim369/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
-| [0410-split-array-largest-sum](https://github.com/drashtim369/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
-| [0678-valid-parenthesis-string](https://github.com/drashtim369/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
-| [0907-sum-of-subarray-minimums](https://github.com/drashtim369/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0054-spiral-matrix](https://github.com/drashtim369/leetcode/tree/main/0054-spiral-matrix/) | Medium |
-| [0735-asteroid-collision](https://github.com/drashtim369/leetcode/tree/main/0735-asteroid-collision/) | Medium |
-| [2149-rearrange-array-elements-by-sign](https://github.com/drashtim369/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/drashtim369/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0005-longest-palindromic-substring](https://github.com/drashtim369/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
-| [0008-string-to-integer-atoi](https://github.com/drashtim369/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
-| [0013-roman-to-integer](https://github.com/drashtim369/leetcode/tree/main/0013-roman-to-integer/) | Easy |
-| [0014-longest-common-prefix](https://github.com/drashtim369/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/drashtim369/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
-| [0020-valid-parentheses](https://github.com/drashtim369/leetcode/tree/main/0020-valid-parentheses/) | Easy |
-| [0022-generate-parentheses](https://github.com/drashtim369/leetcode/tree/main/0022-generate-parentheses/) | Medium |
-| [0076-minimum-window-substring](https://github.com/drashtim369/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
-| [0151-reverse-words-in-a-string](https://github.com/drashtim369/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
-| [0168-excel-sheet-column-title](https://github.com/drashtim369/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
-| [0205-isomorphic-strings](https://github.com/drashtim369/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
-| [0214-shortest-palindrome](https://github.com/drashtim369/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
-| [0242-valid-anagram](https://github.com/drashtim369/leetcode/tree/main/0242-valid-anagram/) | Easy |
-| [0402-remove-k-digits](https://github.com/drashtim369/leetcode/tree/main/0402-remove-k-digits/) | Medium |
-| [0424-longest-repeating-character-replacement](https://github.com/drashtim369/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
-| [0451-sort-characters-by-frequency](https://github.com/drashtim369/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
-| [0678-valid-parenthesis-string](https://github.com/drashtim369/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
-| [0796-rotate-string](https://github.com/drashtim369/leetcode/tree/main/0796-rotate-string/) | Easy |
-| [1021-remove-outermost-parentheses](https://github.com/drashtim369/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/drashtim369/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
-| [1392-longest-happy-prefix](https://github.com/drashtim369/leetcode/tree/main/1392-longest-happy-prefix/) | Hard |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/drashtim369/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
-| [1781-sum-of-beauty-of-all-substrings](https://github.com/drashtim369/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
-| [1903-largest-odd-number-in-string](https://github.com/drashtim369/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0020-valid-parentheses](https://github.com/drashtim369/leetcode/tree/main/0020-valid-parentheses/) | Easy |
-| [0042-trapping-rain-water](https://github.com/drashtim369/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
-| [0084-largest-rectangle-in-histogram](https://github.com/drashtim369/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
-| [0085-maximal-rectangle](https://github.com/drashtim369/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
-| [0094-binary-tree-inorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-| [0144-binary-tree-preorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
-| [0145-binary-tree-postorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
-| [0150-evaluate-reverse-polish-notation](https://github.com/drashtim369/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
-| [0155-min-stack](https://github.com/drashtim369/leetcode/tree/main/0155-min-stack/) | Medium |
-| [0232-implement-queue-using-stacks](https://github.com/drashtim369/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
-| [0234-palindrome-linked-list](https://github.com/drashtim369/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
-| [0402-remove-k-digits](https://github.com/drashtim369/leetcode/tree/main/0402-remove-k-digits/) | Medium |
-| [0496-next-greater-element-i](https://github.com/drashtim369/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
-| [0503-next-greater-element-ii](https://github.com/drashtim369/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
-| [0678-valid-parenthesis-string](https://github.com/drashtim369/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
-| [0735-asteroid-collision](https://github.com/drashtim369/leetcode/tree/main/0735-asteroid-collision/) | Medium |
-| [0901-online-stock-span](https://github.com/drashtim369/leetcode/tree/main/0901-online-stock-span/) | Medium |
-| [0907-sum-of-subarray-minimums](https://github.com/drashtim369/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
-| [1019-next-greater-node-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
-| [1021-remove-outermost-parentheses](https://github.com/drashtim369/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/drashtim369/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
-| [2104-sum-of-subarray-ranges](https://github.com/drashtim369/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
-| [2487-remove-nodes-from-linked-list](https://github.com/drashtim369/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0045-jump-game-ii](https://github.com/drashtim369/leetcode/tree/main/0045-jump-game-ii/) | Medium |
-| [0055-jump-game](https://github.com/drashtim369/leetcode/tree/main/0055-jump-game/) | Medium |
-| [0402-remove-k-digits](https://github.com/drashtim369/leetcode/tree/main/0402-remove-k-digits/) | Medium |
-| [0410-split-array-largest-sum](https://github.com/drashtim369/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
-| [0455-assign-cookies](https://github.com/drashtim369/leetcode/tree/main/0455-assign-cookies/) | Easy |
-| [0678-valid-parenthesis-string](https://github.com/drashtim369/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
-| [0860-lemonade-change](https://github.com/drashtim369/leetcode/tree/main/0860-lemonade-change/) | Easy |
-| [1903-largest-odd-number-in-string](https://github.com/drashtim369/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
-## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0214-shortest-palindrome](https://github.com/drashtim369/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
-| [0796-rotate-string](https://github.com/drashtim369/leetcode/tree/main/0796-rotate-string/) | Easy |
-| [1392-longest-happy-prefix](https://github.com/drashtim369/leetcode/tree/main/1392-longest-happy-prefix/) | Hard |
-## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0014-longest-common-prefix](https://github.com/drashtim369/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0239-sliding-window-maximum](https://github.com/drashtim369/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
-| [0451-sort-characters-by-frequency](https://github.com/drashtim369/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
-| [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
-## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0451-sort-characters-by-frequency](https://github.com/drashtim369/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0451-sort-characters-by-frequency](https://github.com/drashtim369/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
-| [0992-subarrays-with-k-different-integers](https://github.com/drashtim369/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
-| [1781-sum-of-beauty-of-all-substrings](https://github.com/drashtim369/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
-## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/drashtim369/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
-| [0084-largest-rectangle-in-histogram](https://github.com/drashtim369/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
-| [0085-maximal-rectangle](https://github.com/drashtim369/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
-| [0402-remove-k-digits](https://github.com/drashtim369/leetcode/tree/main/0402-remove-k-digits/) | Medium |
-| [0496-next-greater-element-i](https://github.com/drashtim369/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
-| [0503-next-greater-element-ii](https://github.com/drashtim369/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
-| [0901-online-stock-span](https://github.com/drashtim369/leetcode/tree/main/0901-online-stock-span/) | Medium |
-| [0907-sum-of-subarray-minimums](https://github.com/drashtim369/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
-| [1019-next-greater-node-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
-| [2104-sum-of-subarray-ranges](https://github.com/drashtim369/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
-| [2487-remove-nodes-from-linked-list](https://github.com/drashtim369/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
-## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2344-minimum-deletions-to-make-array-divisible](https://github.com/drashtim369/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
-| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
-| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/drashtim369/leetcode/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
-## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/drashtim369/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
-| [0022-generate-parentheses](https://github.com/drashtim369/leetcode/tree/main/0022-generate-parentheses/) | Medium |
-| [0046-permutations](https://github.com/drashtim369/leetcode/tree/main/0046-permutations/) | Medium |
-| [0051-n-queens](https://github.com/drashtim369/leetcode/tree/main/0051-n-queens/) | Hard |
-| [0052-n-queens-ii](https://github.com/drashtim369/leetcode/tree/main/0052-n-queens-ii/) | Hard |
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0155-min-stack](https://github.com/drashtim369/leetcode/tree/main/0155-min-stack/) | Medium |
-| [0232-implement-queue-using-stacks](https://github.com/drashtim369/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
-| [0707-design-linked-list](https://github.com/drashtim369/leetcode/tree/main/0707-design-linked-list/) | Medium |
-| [0901-online-stock-span](https://github.com/drashtim369/leetcode/tree/main/0901-online-stock-span/) | Medium |
-## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0232-implement-queue-using-stacks](https://github.com/drashtim369/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
-| [0239-sliding-window-maximum](https://github.com/drashtim369/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-| [0100-same-tree](https://github.com/drashtim369/leetcode/tree/main/0100-same-tree/) | Easy |
-| [0101-symmetric-tree](https://github.com/drashtim369/leetcode/tree/main/0101-symmetric-tree/) | Easy |
-| [0104-maximum-depth-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-| [0110-balanced-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
-| [0124-binary-tree-maximum-path-sum](https://github.com/drashtim369/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
-| [0144-binary-tree-preorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
-| [0145-binary-tree-postorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
-| [0199-binary-tree-right-side-view](https://github.com/drashtim369/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
-| [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
-| [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
-| [0463-island-perimeter](https://github.com/drashtim369/leetcode/tree/main/0463-island-perimeter/) | Easy |
-| [0543-diameter-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
-| [0662-maximum-width-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
-| [0733-flood-fill](https://github.com/drashtim369/leetcode/tree/main/0733-flood-fill/) | Easy |
-| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
-| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0100-same-tree](https://github.com/drashtim369/leetcode/tree/main/0100-same-tree/) | Easy |
-| [0101-symmetric-tree](https://github.com/drashtim369/leetcode/tree/main/0101-symmetric-tree/) | Easy |
-| [0102-binary-tree-level-order-traversal](https://github.com/drashtim369/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/drashtim369/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
-| [0104-maximum-depth-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-| [0199-binary-tree-right-side-view](https://github.com/drashtim369/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
-| [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
-| [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
-| [0463-island-perimeter](https://github.com/drashtim369/leetcode/tree/main/0463-island-perimeter/) | Easy |
-| [0662-maximum-width-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
-| [0733-flood-fill](https://github.com/drashtim369/leetcode/tree/main/0733-flood-fill/) | Easy |
-| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
-| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0048-rotate-image](https://github.com/drashtim369/leetcode/tree/main/0048-rotate-image/) | Medium |
-| [0054-spiral-matrix](https://github.com/drashtim369/leetcode/tree/main/0054-spiral-matrix/) | Medium |
-| [0073-set-matrix-zeroes](https://github.com/drashtim369/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
-| [0085-maximal-rectangle](https://github.com/drashtim369/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
-| [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
-| [0463-island-perimeter](https://github.com/drashtim369/leetcode/tree/main/0463-island-perimeter/) | Easy |
-| [0733-flood-fill](https://github.com/drashtim369/leetcode/tree/main/0733-flood-fill/) | Easy |
-| [2965-find-missing-and-repeated-values](https://github.com/drashtim369/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
-## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0200-number-of-islands](https://github.com/drashtim369/leetcode/tree/main/0200-number-of-islands/) | Medium |
-## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
-## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/drashtim369/leetcode/tree/main/0002-add-two-numbers/) | Medium |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/drashtim369/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
-| [0021-merge-two-sorted-lists](https://github.com/drashtim369/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
-| [0061-rotate-list](https://github.com/drashtim369/leetcode/tree/main/0061-rotate-list/) | Medium |
-| [0138-copy-list-with-random-pointer](https://github.com/drashtim369/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
-| [0141-linked-list-cycle](https://github.com/drashtim369/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
-| [0142-linked-list-cycle-ii](https://github.com/drashtim369/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
-| [0148-sort-list](https://github.com/drashtim369/leetcode/tree/main/0148-sort-list/) | Medium |
-| [0160-intersection-of-two-linked-lists](https://github.com/drashtim369/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
-| [0206-reverse-linked-list](https://github.com/drashtim369/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
-| [0234-palindrome-linked-list](https://github.com/drashtim369/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
-| [0237-delete-node-in-a-linked-list](https://github.com/drashtim369/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
-| [0328-odd-even-linked-list](https://github.com/drashtim369/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
-| [0707-design-linked-list](https://github.com/drashtim369/leetcode/tree/main/0707-design-linked-list/) | Medium |
-| [1019-next-greater-node-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
-| [1669-merge-in-between-linked-lists](https://github.com/drashtim369/leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
-| [1721-swapping-nodes-in-a-linked-list](https://github.com/drashtim369/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
-| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/drashtim369/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
-| [2487-remove-nodes-from-linked-list](https://github.com/drashtim369/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
-| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/drashtim369/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/drashtim369/leetcode/tree/main/0002-add-two-numbers/) | Medium |
-| [0021-merge-two-sorted-lists](https://github.com/drashtim369/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
-| [0206-reverse-linked-list](https://github.com/drashtim369/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
-| [0234-palindrome-linked-list](https://github.com/drashtim369/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
-| [2487-remove-nodes-from-linked-list](https://github.com/drashtim369/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/drashtim369/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0076-minimum-window-substring](https://github.com/drashtim369/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
-| [0239-sliding-window-maximum](https://github.com/drashtim369/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
-| [0424-longest-repeating-character-replacement](https://github.com/drashtim369/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
-| [0992-subarrays-with-k-different-integers](https://github.com/drashtim369/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
-| [1004-max-consecutive-ones-iii](https://github.com/drashtim369/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
-| [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/drashtim369/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/drashtim369/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
-## Rolling Hash
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0214-shortest-palindrome](https://github.com/drashtim369/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
-| [1392-longest-happy-prefix](https://github.com/drashtim369/leetcode/tree/main/1392-longest-happy-prefix/) | Hard |
-## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0214-shortest-palindrome](https://github.com/drashtim369/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
-| [1392-longest-happy-prefix](https://github.com/drashtim369/leetcode/tree/main/1392-longest-happy-prefix/) | Hard |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0410-split-array-largest-sum](https://github.com/drashtim369/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
-| [0560-subarray-sum-equals-k](https://github.com/drashtim369/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
-| [1004-max-consecutive-ones-iii](https://github.com/drashtim369/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
-| [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/drashtim369/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
-## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0053-maximum-subarray](https://github.com/drashtim369/leetcode/tree/main/0053-maximum-subarray/) | Medium |
-| [0148-sort-list](https://github.com/drashtim369/leetcode/tree/main/0148-sort-list/) | Medium |
-## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0148-sort-list](https://github.com/drashtim369/leetcode/tree/main/0148-sort-list/) | Medium |
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-| [0100-same-tree](https://github.com/drashtim369/leetcode/tree/main/0100-same-tree/) | Easy |
-| [0101-symmetric-tree](https://github.com/drashtim369/leetcode/tree/main/0101-symmetric-tree/) | Easy |
-| [0102-binary-tree-level-order-traversal](https://github.com/drashtim369/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/drashtim369/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
-| [0104-maximum-depth-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-| [0110-balanced-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
-| [0124-binary-tree-maximum-path-sum](https://github.com/drashtim369/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
-| [0144-binary-tree-preorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
-| [0145-binary-tree-postorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
-| [0199-binary-tree-right-side-view](https://github.com/drashtim369/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
-| [0222-count-complete-tree-nodes](https://github.com/drashtim369/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
-| [0543-diameter-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
-| [0662-maximum-width-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
-| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
-| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-| [0100-same-tree](https://github.com/drashtim369/leetcode/tree/main/0100-same-tree/) | Easy |
-| [0101-symmetric-tree](https://github.com/drashtim369/leetcode/tree/main/0101-symmetric-tree/) | Easy |
-| [0102-binary-tree-level-order-traversal](https://github.com/drashtim369/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/drashtim369/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
-| [0104-maximum-depth-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-| [0110-balanced-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
-| [0124-binary-tree-maximum-path-sum](https://github.com/drashtim369/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
-| [0144-binary-tree-preorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
-| [0145-binary-tree-postorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
-| [0199-binary-tree-right-side-view](https://github.com/drashtim369/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
-| [0222-count-complete-tree-nodes](https://github.com/drashtim369/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
-| [0543-diameter-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
-| [0662-maximum-width-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
-| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
-| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
-## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0901-online-stock-span](https://github.com/drashtim369/leetcode/tree/main/0901-online-stock-span/) | Medium |
-## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0239-sliding-window-maximum](https://github.com/drashtim369/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
-<!---LeetCode Topics End-->
+- ✅ Arrays
+- ✅ Strings
+- ✅ Linked Lists
+- ✅ Stack
+- ✅ Queue
+- ✅ Binary Search
+- ✅ Sliding Window
+- ✅ Trees
+- 🔄 Graphs
+- 🔄 Dynamic Programming
+- 🔄 Advanced Trees
+- 🔄 Tries
+- 🔄 Segment Trees
+- 🔄 Competitive Programming
+
+---
+
+# 🌟 Why This Repository?
+
+This repository is a record of my continuous learning and problem-solving journey. Every solution represents a concept learned, an optimization discovered, or a pattern mastered.
+
+I believe consistency beats intensity, and this repository reflects my commitment to becoming a better software engineer one problem at a time.
+
+---
+
+# 🤝 Connect With Me
+
+- 💻 GitHub: https://github.com/drashtim369
+- 🧩 LeetCode: https://leetcode.com/u/drashtim369/
+
+---
+
+⭐ If you found this repository useful, consider giving it a star!
