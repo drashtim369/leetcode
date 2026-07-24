@@ -276,6 +276,7 @@ g++ solution.cpp -o solution
 | [0035-search-insert-position](https://github.com/drashtim369/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/drashtim369/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/drashtim369/leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/drashtim369/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/drashtim369/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drashtim369/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -307,6 +308,7 @@ g++ solution.cpp -o solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/drashtim369/leetcode/tree/main/0136-single-number/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/drashtim369/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/drashtim369/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -606,6 +608,7 @@ g++ solution.cpp -o solution
 | [0144-binary-tree-preorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/drashtim369/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/drashtim369/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -624,6 +627,7 @@ g++ solution.cpp -o solution
 | [0144-binary-tree-preorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/drashtim369/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/drashtim369/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/drashtim369/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
