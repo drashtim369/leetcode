@@ -262,6 +262,7 @@ g++ solution.cpp -o solution
 | [0451-sort-characters-by-frequency](https://github.com/drashtim369/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/drashtim369/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/drashtim369/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/drashtim369/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/drashtim369/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -480,6 +481,7 @@ g++ solution.cpp -o solution
 | [0543-diameter-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/drashtim369/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -495,6 +497,7 @@ g++ solution.cpp -o solution
 | [0463-island-perimeter](https://github.com/drashtim369/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/drashtim369/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -605,6 +608,7 @@ g++ solution.cpp -o solution
 | [0199-binary-tree-right-side-view](https://github.com/drashtim369/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -622,6 +626,7 @@ g++ solution.cpp -o solution
 | [0199-binary-tree-right-side-view](https://github.com/drashtim369/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/drashtim369/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
