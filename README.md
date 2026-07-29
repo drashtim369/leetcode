@@ -390,3 +390,23 @@ I believe consistency beats intensity, and this repository reflects my commitmen
 ---
 
 ⭐ If you found this repository useful, consider giving it a star!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/drashtim369/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/drashtim369/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/drashtim369/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/drashtim369/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+<!---LeetCode Topics End-->
