@@ -1,19 +1,19 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        bool col = false, row = false;
+        bool rowHasZero = false, colHasZero = false;
         int n = matrix.size(), m = matrix[0].size();
-        for (int i = 0; i < n; i++) {
-            if (matrix[i][0] == 0) {
-                row = true;
-                break;
-            }
-        }
         for (int i = 0; i < m; i++) {
             if (matrix[0][i] == 0) {
-                col = true;
+                colHasZero = true;
                 break;
-            }
+            } 
+        }
+        for (int i = 0; i < n; i++) {
+            if (matrix[i][0] == 0) {
+                rowHasZero = true;
+                break;
+            } 
         }
         for (int i = 1; i < n; i++) {
             for (int j = 1; j < m; j++) {
@@ -30,15 +30,15 @@ public:
                 }
             }
         }
-        if (row) {
+        if (rowHasZero) {
             for (int i = 0; i < n; i++) {
-                matrix[i][0] = 0; 
-            }   
+                matrix[i][0] = 0;
+            }
         }
-        if (col) {
+        if (colHasZero) {
             for (int i = 0; i < m; i++) {
-                matrix[0][i] = 0; 
-            }   
+                matrix[0][i] = 0;
+            }
         }
     }
 };
