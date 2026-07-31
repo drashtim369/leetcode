@@ -4,7 +4,6 @@ public:
         unordered_map<int, int> mpp;
         int sum = 0;
         for (int i = 0; i < nums.size(); i++) {
-            sum += nums[i];
             int comp = target - nums[i];
             if (mpp.find(comp) != mpp.end()) {
                 return {mpp[comp], i};
