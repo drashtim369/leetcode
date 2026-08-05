@@ -1,29 +1,33 @@
 class Solution {
 public:
-    int minDays(vector<int>& arr, int m, int k) {
-        if (m > arr.size() / k) return -1;
-        int min_day = *min_element(arr.begin(), arr.end());
-        int max_day = *max_element(arr.begin(), arr.end());
-        while (min_day <= max_day) {
-            int mid_day = min_day + (max_day - min_day) / 2;
-            int consecutive_days = 0, req_boquets = 0;
-            for (auto it: arr) {
-                if (it <= mid_day) {
-                    consecutive_days++;
-                    if (consecutive_days == k) {
-                        req_boquets++;
-                        consecutive_days = 0;
-                    }
-                } else {
-                    consecutive_days = 0;
+    int canMake(vector<int>& bloomDay, int mid, int m, int k) {
+        int bouque = 0, consecutive = 0;
+        for (int it : bloomDay) {
+            if (it <= mid) {
+                consecutive++;
+                if (consecutive == k) {
+                    bouque++;
+                    consecutive = 0;
                 }
-            }
-            if (req_boquets < m) {
-                min_day = mid_day + 1;
             } else {
-                max_day = mid_day - 1;
+                consecutive = 0;
             }
         }
-        return min_day;
+        return bouque;
+    }
+    int minDays(vector<int>& bloomDay, int m, int k) {
+        int n = bloomDay.size();
+        if (m > n / k) return -1;
+        int low = *min_element(bloomDay.begin(), bloomDay.end()), high = *max_element(bloomDay.begin(), bloomDay.end());
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            int req = canMake(bloomDay, mid, m, k);
+            if (req < m) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
+            }
+        }
+        return low;
     }
 };
