@@ -1,20 +1,19 @@
 class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
-        int min_speed = 1, mx_speed = INT_MIN, ans = 0;
-        for (auto it : piles) if (it > mx_speed) mx_speed = it;
-        while (min_speed <= mx_speed) {
-            int mid_speed = min_speed + (mx_speed - min_speed) / 2;
+        int low = 1, high = *max_element(piles.begin(), piles.end());
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
             long long sum = 0;
             for (auto it : piles) {
-                sum += (it + mid_speed - 1) / mid_speed; // this is just to get ceil values.
+                sum += (it + mid - 1) / mid;
             }
             if (sum <= h) {
-                mx_speed = mid_speed - 1;
+                high = mid - 1;
             } else {
-                min_speed = mid_speed + 1; 
+                low = mid + 1;
             }
         }
-        return min_speed;
+        return low;
     }
 };
