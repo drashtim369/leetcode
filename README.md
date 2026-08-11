@@ -396,11 +396,13 @@ I believe consistency beats intensity, and this repository reflects my commitmen
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/drashtim369/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/drashtim369/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/drashtim369/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/drashtim369/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Union-Find
@@ -411,6 +413,7 @@ I believe consistency beats intensity, and this repository reflects my commitmen
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/drashtim369/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/drashtim369/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Coloring
@@ -421,4 +424,12 @@ I believe consistency beats intensity, and this repository reflects my commitmen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/drashtim369/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/drashtim369/leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
