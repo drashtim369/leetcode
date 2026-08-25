@@ -452,4 +452,5 @@ I believe consistency beats intensity, and this repository reflects my commitmen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/drashtim369/leetcode/tree/main/0584-find-customer-referee/) | Easy |
+| [1148-article-views-i](https://github.com/drashtim369/leetcode/tree/main/1148-article-views-i/) | Easy |
 <!---LeetCode Topics End-->
