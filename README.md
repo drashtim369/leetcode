@@ -448,4 +448,8 @@ I believe consistency beats intensity, and this repository reflects my commitmen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/drashtim369/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0584-find-customer-referee](https://github.com/drashtim369/leetcode/tree/main/0584-find-customer-referee/) | Easy |
 <!---LeetCode Topics End-->
