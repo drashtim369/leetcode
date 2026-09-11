@@ -12,6 +12,6 @@ public:
             dp[i] = max(dp[i-2] + nums[i], dp[i-1]);
             val = max(val,dp[i]);
         }
-        return val;
+        return dp[n-1];
     }
 };
